@@ -29,4 +29,4 @@ u2l = Universal 2nd (Secondary) Language 通用语 
 
 1. 8 forms
 
-[句子 Sentence structure](Sentence_structure.md)
+[句子 Sentence structure](句子_Sentence_structure.md)
