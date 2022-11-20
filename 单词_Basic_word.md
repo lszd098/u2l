@@ -20,42 +20,42 @@ Pronunciation is unique for each spelling to avoid ambiguities which exist in En
 | yes            | yes           | "椰丝"         |
 | zha            |               | "渣"男         |
 
-Pronunciation chart:
+Basic words & meaning. Please use word with simpler pronunciation for commonly used word:
 
-|         | A   | E   | I   | O   | U      | U' <br/>"淤"青 |
-| ------- | --- | --- | --- | --- | ------ | ------------ |
-| B       | BA  | BE  | BI  | BO  | BU     |              |
-| BR      | BRA | BRE | BRI | BRO | BRU    |              |
-| C       | CA  | CE  | CI  | CO  | CU     |              |
-| CH      | CHA | CHE | CHI | CHO | CHU    |              |
-| CR      | CRA | CRE | CRI | CO  | CRU    |              |
-| D       | DA  | DE  | DI  | DO  | DU     |              |
-| DR      | DRA | DRE | DRI | DRO | DRU    |              |
-| F       | FA  | FE  | FI  | FO  | FU     |              |
-| FR      | FRA | FRE | FRI | FRO | FRU    |              |
-| G       | GA  | GE  | GI  | GO  | GU     |              |
-| GR      | GRA | GRE | GRI | GRO | GRU    |              |
-| H       | HA  | HE  | HI  | HO  | HU     |              |
-| K       | KA  | KE  | KI  | KO  | KU     |              |
-| KR      | KRA | KRE | KRI | KRO | KRU    |              |
-| M       | MA  | ME  | MI  | MO  | MU     |              |
-| N       | NA  | NE  | NI  | NO  | NU     |              |
-| NG      | NGA | NGE | NGI | NGO | NGU    |              |
-| P       | PA  | PE  | PI  | PO  | PU     |              |
-| PR      | PRA | PRE | PRI | PRO | PRU    |              |
-| R       | RA  | RE  | RI  | RO  | RU     |              |
-| T       | TA  | TE  | TI  | TO  | TU     |              |
-| TH      | THA | THE | THI | THO | THU    |              |
-| TR      | TRA | TRE | TRI | TRO | TRU    |              |
-| V       | VA  | VE  | VI  | VO  | VU     |              |
-| W       | WA  | WE  | WI  | WO  | WU     |              |
-| X       | XA  | XE  | XI  | XO  | XU     | XU' 虚        |
-| XH (SH) | XHA | XHE | XHI | XHO | XHU    |              |
-| XT (ST) | XTA | XTE | XTI | XTO | XTU    | XTU'         |
-| XP (SP) | XPA | XPE | XPI | XPO | XPU    |              |
-| Y       | YA  | YE  | YI  | YO  | YU "u" | YU' 淤青       |
-| Z       | ZA  | ZE  | ZI  | ZO  | ZU     | 广东猪          |
-| ZH      | ZHA | ZHE | ZHI | ZHO | ZHU    |              |
+|         | A   | E   | I              | O   | U      | U' <br/>"淤"青 |
+| ------- | --- | --- | -------------- | --- | ------ | ------------ |
+| B       | BA  | BE  | BI             | BO  | BU     |              |
+| BR      | BRA | BRE | BRI            | BRO | BRU    |              |
+| C       | CA  | CE  | CI             | CO  | CU     |              |
+| CH      | CHA | CHE | CHI            | CHO | CHU    |              |
+| CR      | CRA | CRE | CRI            | CO  | CRU    |              |
+| D       | DA  | DE  | DI             | DO  | DU     |              |
+| DR      | DRA | DRE | DRI            | DRO | DRU    |              |
+| F       | FA  | FE  | FI             | FO  | FU     |              |
+| FR      | FRA | FRE | FRI            | FRO | FRU    |              |
+| G       | GA  | GE  | GI             | GO  | GU     |              |
+| GR      | GRA | GRE | GRI            | GRO | GRU    |              |
+| H       | HA  | HE  | HI             | HO  | HU     |              |
+| K       | KA  | KE  | KI             | KO  | KU     |              |
+| KR      | KRA | KRE | KRI            | KRO | KRU    |              |
+| M       | MA  | ME  | MI             | MO  | MU     |              |
+| N       | NA  | NE  | NI             | NO  | NU     |              |
+| NG      | NGA | NGE | NGI            | NGO | NGU    |              |
+| P       | PA  | PE  | PI             | PO  | PU     |              |
+| PR      | PRA | PRE | PRI            | PRO | PRU    |              |
+| R       | RA  | RE  | RI             | RO  | RU     |              |
+| T       | TA  | TE  | TI             | TO  | TU     |              |
+| TH      | THA | THE | THI            | THO | THU    |              |
+| TR      | TRA | TRE | TRI            | TRO | TRU    |              |
+| V       | VA  | VE  | VI             | VO  | VU     |              |
+| W       | WA  | WE  | WI             | WO  | WU     |              |
+| X       | XA  | XE  | XI             | XO  | XU     | XU' 虚        |
+| XH (SH) | XHA | XHE | XHI            | XHO | XHU    |              |
+| XT (ST) | XTA | XTE | XTI            | XTO | XTU    | XTU'         |
+| XP (SP) | XPA | XPE | XPI            | XPO | XPU    |              |
+| Y       | YA  | YE  | YI<br/>人 Human | YO  | YU "u" | YU' 淤青       |
+| Z       | ZA  | ZE  | ZI             | ZO  | ZU     | 广东猪          |
+| ZH      | ZHA | ZHE | ZHI            | ZHO | ZHU    |              |
 
 Continue: 
 
@@ -101,10 +101,10 @@ Continue:
 | BRAU | BRUA | BREI | BRIE | BREO | BROE |
 | CAU  | CUA  | CEI  | CIE  | CEO  | COE  |
 | CHAU | CHUA | CHEI | CHIE | CHEO | CHOE |
-| CRAU |      |      |      |      |      |
-| DAU  |      |      |      |      |      |
-| DRAU |      |      |      |      |      |
-| FAU  |      |      |      |      |      |
+| CRAU | CRUA | CREI | CRIE | CREO | CROE |
+| DAU  | DUA  | DEI  | DIE  | DEO  | DOE  |
+| DRAU | DRUA | DREI | DRIE | DREO | DROE |
+| FAU  | FUA  | FEI  |      |      |      |
 | FRAU |      |      |      |      |      |
 | GAU  |      |      |      |      |      |
 | GRAU |      |      |      |      |      |
@@ -200,6 +200,42 @@ Continue:
 | YOU  | YUO  |     |     |     |     |
 | ZOU  | ZUO  |     |     |     |     |
 | ZHOU | ZHUO |     |     |     |     |
+
+Continue:
+
+| AR   | ER   | IR   | OR   | UR   |     |
+| ---- | ---- | ---- | ---- | ---- | --- |
+| BAR  | BER  | BIR  | BOR  | BUR  |     |
+| BRAR | BRER | BRIR | BROR | BRUR |     |
+| CAR  | CER  | CIR  | COR  | CUR  |     |
+| CHAR | CHER | CHIR | CHOR | CHUR |     |
+| CROU | CRUO |      |      |      |     |
+| DOU  | DUO  |      |      |      |     |
+| DROU | DRUO |      |      |      |     |
+| FOU  | FUO  |      |      |      |     |
+| FROU | FRUO |      |      |      |     |
+| GOU  | GUO  |      |      |      |     |
+| GROU | GRUO |      |      |      |     |
+| HOU  | HUO  |      |      |      |     |
+| KOU  | KUO  |      |      |      |     |
+| KROU | KRUO |      |      |      |     |
+| MOU  | MUO  |      |      |      |     |
+| NOU  | NUO  |      |      |      |     |
+| POU  | PUO  |      |      |      |     |
+| PROU | PRUO |      |      |      |     |
+| ROU  | RUO  |      |      |      |     |
+| TOU  | TUO  |      |      |      |     |
+| THOU | THUO |      |      |      |     |
+| TROU | TRUO |      |      |      |     |
+| VOU  | VUO  |      |      |      |     |
+| WOU  | WUO  |      |      |      |     |
+| XOU  | XUO  |      |      |      |     |
+| XHOU | XHUO |      |      |      |     |
+| XTOU | XTUO |      |      |      |     |
+| XPOU | XPUO |      |      |      |     |
+| YOU  | YUO  |      |      |      |     |
+| ZOU  | ZUO  |      |      |      |     |
+| ZHOU | ZHUO |      |      |      |     |
 
 BAR
 
