@@ -1,4 +1,12 @@
-A compound word is where two or more words are merged into a new and different word, it's like we put different ingredients together in forming a salad with richer flavor & more beautiful look.
+This page is WIP. If you found any bug or confusing info, please inform us via any means.
+
+---
+
+A compound word is where two or more basic words are merged into a new and different word, it's like we put different ingredients together in forming a salad with richer flavor & more beautiful look.
+
+1. Prefix (Optional)
+2. [单词 Basic word ](单词_Basic_word.md)
+3. Suffix
 
 ---
 

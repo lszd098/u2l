@@ -1,3 +1,7 @@
+This page is WIP. If you found any bug or confusing info, please inform us via any means.
+
+---
+
 Letters form a word.
 
 Words form a sentence.

@@ -1,3 +1,7 @@
+This page is WIP. If you found any bug or confusing info, please inform us via any means.
+
+---
+
 Root Character is the basic idea which can be used as basic material to form more complex word. For example: Hand+Time= Wrist watch, Positive+Body= Health. Those Cooing form is tentative, we put it this way so that you get the rough idea. We are open to discussion, amendment & new suggestion. 
 
 ---
@@ -307,6 +311,50 @@ Word:
 
 ---
 
+🔣: biu = 射击 Shoot (eg: with gun)
+
+1. 🤖:
+
+2. 👩‍🦰: biul = Female shooter
+
+3. 🎅: biuj = Male shooter
+
+4. 👫:
+
+5. 🏃‍♂️: biuya = 射击 Shoot (eg: with gun)
+
+6. ✨: biuyeb = 射击的
+
+7. 🤖: ibiuyebi = 被射击到的人 People who was shot
+
+8. 🏚:
+
+9. 🕒:
+
+---
+
+🔣: pia = 打(人/物) Hit, Strike
+
+1. 🤖:
+
+2. 👩‍🦰:
+
+3. 🎅:
+
+4. 👫:
+
+5. 🏃‍♂️: piaa = 打(人/物) Hit, Strike
+   
+   - wal piaa anij = 我打他 I hit him.
+
+6. ✨:
+
+7. 🏚:
+
+8. 🕒:
+
+---
+
 🔣: Smooth
 
 1. 🤖: Smoothness
@@ -327,7 +375,7 @@ Word:
 
 8. 🕒:
 
-9. 词: 
+9. 相关词: 
    
    1. 运动 Exercise = Smooth + Move
    
@@ -397,25 +445,47 @@ Word:
 
 ---
 
-🔣: 💦/💧 液体 Liquid
+🔣: ho = H2O 💦/💧 液体 Liquid water
 
-1. 🤖: Liquid, water, rain etc
+1. 🤖: hoi = Liquid, Plain water, Rain etc
 
-2. 👩‍🦰: Female liquid from urethra
+2. 👩‍🦰: hol = Female liquid from urethra
 
-3. 🎅: Male liquid, semen
+3. 🎅: hoj = Male liquid, semen
 
 4. 👫:
 
 5. 🏃‍♂️: 液化 Liquify
 
-6. ✨: Watery
+6. ✨: hob = Watery
    
    1. ☁ + 💧 = 下雨的 Rainy (it is rainy today)
 
-7. 🏚: 积水/存水的地方 Watery place, ponding
+7. 🏚: hou = 积水/存水的地方 Watery place, ponding
 
-8. 🕒:
+8. 🕒: hoo
+
+---
+
+🔣: homa 💧👄 ho + ma  = Liquid + Mouth
+
+1. 🤖: homai = (Anybody) who drinks
+
+2. 👩‍🦰: homal = Female who drinks
+
+3. 🎅: homaj = Male who drinks
+
+4. 👫:
+
+5. 🏃‍♂️: homaa = 喝 (任何液体) Drink (any liquid eg: water, juice)
+
+6. ✨: homab = 可以喝的 Drinkable (adjective)
+
+7. 🤖: homabi = 饮料 Drinkable drinks (item)
+
+8. 🏚:
+
+9. 🕒:
 
 ---
 
@@ -682,7 +752,27 @@ Word:
 
 ---
 
-🔣: foma =🍔👄 吃 Eat =  Food + Mouth
+🔣: mu = mouth嘴巴 Mouth
+
+1. 🤖: mui = 嘴巴 Mouth
+
+2. 👩‍🦰:
+
+3. 🎅:
+
+4. 👫:
+
+5. 🏃‍♂️: mua = 亲嘴, 亲吻 Kiss
+
+6. ✨: mub = 嘴巴的 Mouth-related
+
+7. 🏚: muu = muwu = 吻痕 Kissing mark
+
+8. 🕒:
+
+---
+
+🔣: fomu =🍔👄 吃 Eat =  Food + Mouth
 
 1. 🤖: fomai = 吃相
 
@@ -714,7 +804,7 @@ Word:
 
 5. 🏃‍♂️:
 
-6. ✨:
+6. ✨: zhoib = Enjoyable
 
 7. 🏚:
 
@@ -722,7 +812,7 @@ Word:
 
 ---
 
-🔣: dem = 十 
+🔣: tem = 10 十  Ten
 
 1. 🤖:
 
@@ -738,7 +828,7 @@ Word:
 
 7. 🏚:
 
-8. 🕒:
+8. 🕒: temo = 十点 10 o'clock
 
 ---
 
@@ -764,7 +854,7 @@ Word:
 
 🔣: Eye
 
-1. 🤖: Eye
+1. 🤖: i = Eye
 
 2. 👩‍🦰:
 
@@ -804,25 +894,45 @@ Word:
 
 ---
 
-🔣: yier = 耳朵 Ear 
+🔣: bi = 好看的, 美 Beautiful
 
-1. 🤖: yieri = 耳朵 Ear
+1. 🤖:
 
-2. 👫: yieris = 多耳 Ears
+2. 👩‍🦰: bil = 美女 Beautiful female
 
-3. 🏃‍♂️: yiera = 聆听 To listen (Action)
+3. 🎅: bij = 美男 Pretty boy
 
-4. 🤖: yierai = 聆听者 Listener (Person who listens)
+4. 👫:
 
-5. ✨: yiereb = 耳朵的
+5. 🏃‍♂️:
+
+6. ✨: bib = 好看的 Beautiful
+
+7. 🏚:
+
+8. 🕒:
+
+---
+
+🔣: de = 耳朵 Ear 
+
+1. 🤖: dei = 耳朵 Ear
+
+2. 👫: deis = 多耳 Ears
+
+3. 🏃‍♂️: dea = 聆听 To listen (Action)
+
+4. 🤖: deai = 聆听者 Listener (Person who listens)
+
+5. ✨: deb = 耳朵的
    
-   1. 新词: 耳机
+   - 耳机
    
-   2. 新词: 耳朵的疾病
+   - 耳朵的疾病
 
-6. 🤖: yierebi = 耳朵听到的声音, 声音 Sound (perceived by ear)
+6. 🤖: debi = 耳朵听到的声音, 声音 Sound (perceived by ear)
    
-   1. 新字: Beautiful + sound = Music
+   - zhoidebi (zhoi + debi) = Music (Enjoy+ Sound)
 
 7. 
 
@@ -874,13 +984,13 @@ Word:
 
 🔣: ni = 这 This
 
-1. 🤖: nii = 你 (无性的) This person/object in front of me = You
+1. 🤖: niyi = 你 (无性的) This person/object in front of me = You
 
 2. 👩‍🦰: nil = 妳 This woman in front of me = You
 
 3. 🎅: nij = 你 This man in front of me = You
 
-4. 👫: niis = 你们 You all (at least 2 people/objects)
+4. 👫: niyis = 你们 You all (at least 2 people/objects)
 
 5. 🏃‍♂️: nia = 变成你的 Make sth yours
 
@@ -890,17 +1000,19 @@ Word:
 
 8. 🕒: nio = 现在,当下 This moment = Now
 
+9. niu nio = 此地此时 Right here right now
+
 ---
 
 🔣: ani = 那 That
 
-1. 🤖: anii = 它 (无性的) That person/object = it 
+1. 🤖: aniyi = 它 (无性的) That person/object = it 
 
 2. 👩‍🦰: anil = 她 That woman = She
 
 3. 🎅: anij = 他 That man = He
 
-4. 👫: aniis = 他们 They / Them
+4. 👫: aniyis = 他们 They / Them
 
 5. 🏃‍♂️: ania = 变成他的 Make sth his/hers
 
@@ -946,7 +1058,7 @@ Word:
 
 4. 👫:
 
-5. 🏃‍♂️: 定位 (地理位置), 找寻 (失物) To locate, Find (eg: missing item)
+5. 🏃‍♂️: wua = 定位 (地理位置), 找寻 (失物) To locate, Find (eg: missing item)
 
 6. ✨:
 
@@ -975,6 +1087,28 @@ Word:
 8. 🕒:
 
 ---
+
+🔣: duang = 有弹性 Bouncy
+
+1. 🤖: duangi = 弹性 Bounciness
+
+2. 👩‍🦰: 
+
+3. 🎅:
+
+4. 👫:
+
+5. 🏃‍♂️:
+
+6. ✨: duangeb = 有弹性的 Bouncy
+
+7. 🏚:
+
+8. 🕒:
+
+---
+
+
 
 ---
 

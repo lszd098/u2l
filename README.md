@@ -1,6 +1,4 @@
-READ ME FIRST
-
-Original author = Github username:
+This page is WIP. If you found any bug or confusing info, please inform us via any means.
 
 ---
 
@@ -18,15 +16,16 @@ u2l = Universal 2nd (Secondary) Language 通用语 
 
 ---
 
-[字母 Letter](字母_Letter.md) = A,B,C...Z
+[字母 Letter](字母_Letter.md) = (A),(B),(C)...(Z)
 
-单词 Basic word = BA, RA, XTAR
+[单词 Basic word](单词_Basic_word.md) = (WA), (HO), (MA)...
 
-1. 8 forms
+[合成词 Compound word](合成词_Compound_word.md) = (HO) + (MA) + (A) = (HOMAA)
 
-[合成词 Compound word](合成词_Compound_word.md) = BARAXTARI, XTARABAI
+1. [前缀 Prefix](前缀_Prefix.md)
+2. [后缀 Suffix](后缀_Suffix.md)
+3. [常用词 Common word](常用词_Common_word.md)
+4. [反义词 Opposites](反义词_Opposites.md)
+5. [词库 Vocabulary](%E8%AF%8D%E5%BA%93_Vocabulary.md)
 
-1. 8 forms
-2. [词库 Vocabulary](词库_Vocabulary.md)
-
-[句子 Sentence structure](句子_Sentence_structure.md)
+[句子 Sentence structure](句子_Sentence_structure.md) = Waj homaa hoi.
