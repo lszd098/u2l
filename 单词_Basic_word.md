@@ -23,7 +23,7 @@ Pronunciation is unique for each spelling to avoid ambiguities which exist in En
 Basic words & meaning. Please use word with simpler pronunciation for commonly used word:
 
 |         | A   | E   | I              | O   | U      | U' <br/>"淤"青 |
-| ------- | --- | --- | -------------- | --- | ------ | ------------ |
+|:-------:|:---:|:---:|:--------------:|:---:|:------:| ------------ |
 | B       | BA  | BE  | BI             | BO  | BU     |              |
 | BR      | BRA | BRE | BRI            | BRO | BRU    |              |
 | C       | CA  | CE  | CI             | CO  | CU     |              |
