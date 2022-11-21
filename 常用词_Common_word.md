@@ -1,27 +1,56 @@
-This page is WIP. If you found any bug or confusing info, please inform us via any means.
----
+Let's have fun & build vocabulary for our language. Please leave new suggestion or any comment below:
 
 ---
 
-常用的 Commonly used:
+常用词 Commonly used:
 
 ---
 
 Miscellaneous:
 
-1. 
+- 
 
 ---
 
 情绪 Emotion:
 
-1. 开心 Happy = Expand/Open + Emotion
+1. Movement + Energy + Human
 
-2. 伤心 Sad
+2. emo
+   
+   - e- is prefix for numbers right?
+
+
+
+开心 Happy:
+
+1.  Expand/Open + Emotion
+
+
+
+兴奋 Excited:
+
+1. High + Emotion
+
+2. Up + Emotion
+
+
+
+伤心 Sad:
+
+1. Down + Emotion
+
+
+
+绝望 Depressed:
+
+1. Bottom + Emotion
+
+
 
 ---
 
-数字 Numbering, Mathematics:
+数学 Mathematics:
 
 1. wan = (一) One
 
