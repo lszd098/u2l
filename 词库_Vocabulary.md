@@ -4,9 +4,7 @@ Let's have fun & build vocabulary for our language. Please leave new suggestion 
 
 数字 Number:
 
-- 
-
-算数 Calculate/Compute: 
+- 算数 Calculate/Compute: 
 
 - 
 
@@ -16,11 +14,11 @@ Let's have fun & build vocabulary for our language. Please leave new suggestion 
 
 - 
 
+物理 Physics
+
 wan = (一) One
 
-- 
-
-dum = (二) Two
+- dum = (二) Two
 
 - tum ?
 
@@ -34,9 +32,7 @@ kuam = (四) Four
 
 pen = (五) Five
 
-- 
-
-nam = (六) Six
+- nam = (六) Six
 
 cin = (七) Seven
 
@@ -103,8 +99,6 @@ Zero point zero one = 0.01
 算数 Calculate
 
 Equal
-
-
 
 ---
 
@@ -174,10 +168,7 @@ White = All + Rainbow
 
 鼻子
 
-- 
-
-mu = 有关嘴巴 Mouth-related:
-
+- mu = 有关嘴巴 Mouth-related:
 * mui = 嘴巴 Mouth
 - mua = 亲吻 To touch sth with mouth, Kiss (normally)
 
@@ -236,24 +227,15 @@ xhe = 舌头 Tongue:
 
 骨头 Bone:
 
-- 
-
-
-
-牙齿 Teeth:
+- 牙齿 Teeth:
 
 - Teeth = 骨头+嘴巴  Bone + Mouth
-
-
 
 臀部 Buttock
 
 生殖器 Genital
 
-- 
-
-尾巴 Tail （alien, animal)
-
+- 尾巴 Tail （alien, animal)
 * Between + Buttock
 
 * 
@@ -303,8 +285,6 @@ Neither
 帽子 Hat:
 
 - Head + Cloth
-
-
 
 上衣 Shirt:
 
@@ -393,8 +373,6 @@ Neither
 
 - 
 
-
-
 尊敬 Respect
 
 - 敬礼+情绪 Salute + Emotion
@@ -402,8 +380,6 @@ Neither
 - 
 
 ---
-
-
 
 颜色 Color:
 
@@ -533,10 +509,6 @@ I was eating, when...
 
 ---
 
-
-
-
-
 人物代名词 Pronouns
 
 我 I/me:
@@ -611,7 +583,9 @@ I was eating, when...
 
 活物 Living thing 
 
-动物 Animal:
+动物 Animal
+
+野生 Wild/Undomesticated
 
 犬科 Canis 
 
@@ -658,7 +632,9 @@ Cabbage
 Broccoli
 
 食物 Food
+
 肉类 Meat (Chicken, Fish, Pork, Lamb, Beef etc)
+
 鸡蛋 Egg
 面包 Bread
 披萨 Pizza
@@ -705,13 +681,9 @@ Broccoli
 
 - pici
 
-
-
 互联网 internet:
 
 - internei
-
-
 
 洗衣机 Washing machine
 
@@ -719,17 +691,11 @@ Broccoli
 
 ---
 
-
-
 人际关系 Social relationship:
 
 社会 Society
 
-- 
-
-
-
-养育者 People who raise me
+- 养育者 People who raise me
 
 - 父亲 Father = Parent (masculine form)
 
@@ -826,15 +792,11 @@ Namaste
 植物 Plant
 机器 Machine (includes all electronics)
 
-
-
 ---
 
 住 Stay at
 
-* 
-
-里面 Inside
+* 里面 Inside
 
 * 
 
@@ -843,8 +805,6 @@ Namaste
 - House + Family = Home
 
 ---
-
-
 
 动词:
 拥有 Have (我有钱, 但是不是我的钱)
@@ -896,6 +856,28 @@ Namaste
 
 ---
 
+说话 Speak
+
+说谎 Lie (non-truth)
+
+真相 Truth
+
+思考 Think
+
+念头 Thought
+
+心理学 Psychology
+
+Mind
+
+Intention
+
+意志 Will
+
+Ego
+
+---
+
 外来的 Foreign
 
 外星人 Alien
@@ -923,6 +905,26 @@ Europe
 ---
 
 科学 Science
+
+哲学 Philosophy
+
+地球 Earth
+
+- Ground
+
+- Down
+
+方法 Method
+
+Logic
+
+Evidence/Proof
+
+Observation
+
+Hypothesis
+
+客观 Objectivity
 
 宇宙 Universe
 
