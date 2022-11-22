@@ -8,13 +8,13 @@ Miscellaneous:
 2. Either
 3. Neither
 4. 
-5. 
----</br>
+5. ---</br>
 
 衣服 Clothing
 ***</br>
 
 T-shirt:
+
 裤子  Pant
 鞋子  Shoes
 内衣  Bra
@@ -22,7 +22,6 @@ T-shirt:
 穿衣  Wear (cloth)
 
 ---</br>
-
 
 情绪 Emotion:
 
