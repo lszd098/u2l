@@ -55,12 +55,14 @@ Miscellaneous:
 
 1. Shrink + Emotion
 
---
+--</br>
+
 紧张 Anxiety:
 
 1. 长久+收缩+情绪 Long + Shrink + Emotion
 
---
+--</br>
+
 尊敬 Respect
 
 1. 敬礼+情绪 Salute + Emotion
