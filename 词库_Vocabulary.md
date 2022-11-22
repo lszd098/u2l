@@ -5,22 +5,33 @@ Let's have fun & build vocabulary for our language. Please leave new suggestion 
 Miscellaneous:
 
 1. Any
+
 2. Either
+
 3. Neither
-4. 
-   
-   
-   ---</br>
+
+---
 
 衣服 Clothing
-***</br>
+
+**
 
 T-shirt:
 
+**
+
 裤子  Pant
 
+**
+
 鞋子  Shoes
+
+
+**
+
 内衣  Bra
+
+**
 内裤  Panties
 穿衣  Wear (cloth)
 
