@@ -2,6 +2,188 @@ Let's have fun & build vocabulary for our language. Please leave new suggestion 
 
 ---
 
+数学 Mathematics:
+
+1. wan = (一) One
+
+2. dum = (二) Two
+   
+   - tum ?
+
+3. trin = (三) Three
+   
+   - xan ?
+
+4. kuam = (四) Four
+   
+   - fom ?
+
+5. pen = (五) Five
+
+6. nam = (六) Six
+
+7. cin = (七) Seven
+   
+   - tin ?
+
+8. bom = (八) Eight
+
+9. gun = (九) Nine
+
+10. tem = (十) Ten
+
+11. tem-wan = (十一) Eleven
+
+12. dutem-wan = (二十一) Twenty-one
+
+13. kom = (零) Zero
+
+14. wan edum = (一百) One hundred = 100 = 1x10^2 = 1e2
+
+15. wan ewanedum / wan ewakokom = One googol = 1x10^100 = 1e100 = 1e(1e2)
+
+16. san esam = (三千) One Thousand = 3x10^3 = 3e3
+
+17. dum ebom = (两万) Twenty Thousand = 2x10^4
+
+18. wan edum tem wan / wawawam = 111 One hundred & eleven
+
+19. wan ewanedumtemwam / wan ewawawam = One septemtrigintillion = 1e111
+
+20. wan edum dutem nam = 126
+
+21. wan ewanedumdutemnam / wan ewadunam = One duoquardragintillion = 1e126
+
+22. pen esam = 5000
+
+23. wan epenesam / wan epekokokom = 1x10^5000 = 1e5000
+
+24. ban = 一半 Half
+
+25. 加 Addition
+
+26. 减
+
+27. 乘 Multiplication
+
+28. 除 Division
+
+29. 大数字 Big numbers: https://simple.wikipedia.org/wiki/Names_of_large_numbers
+
+30. wanu = 第一 First place, Number one
+
+31. 最后 Last
+
+32. 负一 Negative one = -1
+
+33. Zero point zero one = 0.01
+
+34. 分数 Fraction
+    
+    - 1 over 2
+    
+    - 1 divided by 2
+
+35. 算数 Calculate
+
+36. Equal
+
+---
+
+颜色 Color:
+
+1. 🔴 Red
+   
+   1. re
+   
+   2. ro
+   
+   3. hong
+
+2. 🟡 Yellow
+
+3. 🔵 Blue
+
+4. Orange = 🔴+ 🟡
+
+5. Green = 🟡 + 🔵
+
+6. Purple = 🔴 + 🔵
+
+7. ⚫ Black = All + Color
+
+8. Red-brown = ⚫ + 🔴
+
+9. Yellow-brown = ⚫ + 🟡
+
+10. Rainbow = 7 + Color
+
+11. White = All + Rainbow
+
+---
+
+解剖学 Anatomy:
+
+**
+
+身体 Body:
+
+**
+
+眼 Eye:
+
+**
+
+耳朵 Ear
+
+**
+
+鼻子
+
+**
+
+嘴巴 Mouth:
+
+* mu 
+  
+  
+
+**
+
+舌头 Tongue:
+
+* 动词 Verb = To taste
+
+**
+
+
+
+头部  Head:
+
+**
+
+
+
+脸部  Face:
+
+**
+
+1. 手 Hand
+   
+   1. 上肢 = Up + limbs
+
+2. 脚 Leg
+   
+   1. 下肢 = Down/Lower + limbs
+
+3. 臀部 Buttock
+
+4. 尾巴 Tail
+
+---
+
+
+
 Miscellaneous:
 
 1. Any
@@ -22,15 +204,11 @@ Miscellaneous:
 
 裤子  Pant
 
-* 
-
-**
+* **
 
 鞋子  Shoes
 
 * 保护+脚  Protect + Foot
-
-
 
 **
 
@@ -103,96 +281,6 @@ Miscellaneous:
 
 1. 敬礼+情绪 Salute + Emotion
 2. 
-
----
-
-数学 Mathematics:
-
-1. wan = (一) One
-
-2. dum = (二) Two
-   
-   - tum ?
-
-3. trin = (三) Three
-   
-   - xan ?
-
-4. kuam = (四) Four
-   
-   - fom ?
-
-5. pen = (五) Five
-
-6. nam = (六) Six
-
-7. cin = (七) Seven
-   
-   - tin ?
-
-8. bom = (八) Eight
-
-9. gun = (九) Nine
-
-10. tem = (十) Ten
-
-11. tem-wan = (十一) Eleven 
-
-12. dutem-wan = (二十一) Twenty-one
-
-13. kom = (零) Zero
-
-14. wan edum = (一百) One hundred = 100 = 1x10^2 = 1e2
-
-15. wan ewanedum / wan ewakokom = One googol = 1x10^100 = 1e100 = 1e(1e2)
-
-16. san esam = (三千) One Thousand = 3x10^3 = 3e3
-
-17. dum ebom = (两万) Twenty Thousand = 2x10^4
-
-18. wan edum tem wan / wawawam = 111 One hundred & eleven
-
-19. wan ewanedumtemwam / wan ewawawam = One septemtrigintillion = 1e111
-
-20. wan edum dutem nam = 126
-
-21. wan ewanedumdutemnam / wan ewadunam = One duoquardragintillion = 1e126
-
-22. pen esam = 5000
-
-23. wan epenesam / wan epekokokom = 1x10^5000 = 1e5000
-
-24. ban = 一半 Half
-
-25. 加 Addition
-
-26. 减 
-
-27. 乘 Multiplication
-
-28. 除 Division
-
-29. 大数字 Big numbers: https://simple.wikipedia.org/wiki/Names_of_large_numbers
-
-30. wanu = 第一 First place, Number one
-
-31. 最后 Last
-
-32. 负一 Negative one = -1
-
-33. Zero point zero one = 0.01
-
-34. 分数 Fraction
-    
-    - 1 over 2
-    
-    - 1 divided by 2
-
-35. 算数 Calculate
-
-36. Equal
-
-37. 
 
 ---
 
@@ -422,39 +510,7 @@ Miscellaneous:
 
 ---
 
-身体 Body:
 
-身体 Body
-
---
-
-1. 眼
-
-2. 耳朵 Ear
-
-3. 鼻子
-
-4. 嘴巴
-
-5. 舌头
-
-6. 头部
-
-7. 脸部
-
-8. 手 Hand
-   
-   1. 上肢 = Up + limbs
-
-9. 脚 Leg
-   
-   1. 下肢 = Down/Lower + limbs
-
-10. 臀部 Buttock
-
-11. 尾巴 Tail
-
----
 
 动词 Verb:
 
