@@ -2,9 +2,23 @@ Let's have fun & build vocabulary for our language. Please leave new suggestion 
 
 ---
 
+数字 Number:
+
+- 
+
+算数 Calculate/Compute: 
+
+- 
+
 数学 Mathematics:
 
+- 算数+学科/领域  Calculate + Subject/Field
+
+- 
+
 wan = (一) One
+
+- 
 
 dum = (二) Two
 
@@ -19,6 +33,8 @@ kuam = (四) Four
 - fom ?
 
 pen = (五) Five
+
+- 
 
 nam = (六) Six
 
@@ -210,15 +226,29 @@ xhe = 舌头 Tongue:
 
 - Up + Leg = Jump
 
+- 
+
 下肢
 
 - Down/Lower + limbs
 
 - 
 
+骨头 Bone:
+
+- 
+
+
+
+牙齿 Teeth:
+
+- Teeth = 骨头+嘴巴  Bone + Mouth
+
+
+
 臀部 Buttock
 
-- 生殖器 Genital
+生殖器 Genital
 
 - 
 
@@ -269,6 +299,12 @@ Neither
 * 动词 Verb = 穿衣 To wear (cloth)
 
 * 
+
+帽子 Hat:
+
+- Head + Cloth
+
+
 
 上衣 Shirt:
 
@@ -353,89 +389,21 @@ Neither
 
 紧张 Anxiety:
 
-1. 长久+收缩+情绪 Long + Shrink + Emotion
+- 长久+收缩+情绪 Long + Shrink + Emotion
 
---</br>
+- 
+
+
 
 尊敬 Respect
 
-1. 敬礼+情绪 Salute + Emotion
+- 敬礼+情绪 Salute + Emotion
+
+- 
 
 ---
 
-时间性 Timing/Frequency:
 
-1. 日子 Date & Time
-
-2. 早午晚 morning, noon, night
-
-3. 已经 already (done)
-
-4. 刚刚发生 Just happened
-
-5. 曾经 previously (not anymore)
-
-6. 正在 (还在发生着) eg: eating (not finished yet)
-   
-   - Right now?
-
-7. 正当 Meanwhile,
-   
-   I was eating, when...
-   
-   将要 will (in the future)
-   
-   - Next (+moment) = soon later
-   
-   - Next + Next +moment = long time later
-
-8. 经常 Frequently
-   
-   - happening + plural
-
-9. 一直 Always
-
-10. 偶尔 Seldom
-
-11. 随机地 randomly
-
-12. 日期 Date
-
-13. 几年 Year
-    
-    1. Rotation + Sun
-    
-    2. Cycle + Sun
-
-14. 几月 Month
-    
-    1. Rotation + Moon
-    
-    2. Cycle + Moon
-
-15. 几号
-    
-    1. Rotation+ Earth
-    
-    2. Cycle + Earth
-
-16. 星期 Week
-    
-    1. Seven + Day
-    
-    2. Seven + Cycle
-
-17. 今天 Today = This + Day
-
-18. 昨天 Yesterday = Previous + Day
-
-19. 后天 The day after tomorrow = Next + Next + Day
-
-20. 时间 Time:
-    
-    1. 几点 What time is it now?
-
----
 
 颜色 Color:
 
@@ -468,6 +436,106 @@ Neither
 11. White = All + Rainbow 
 
 ---
+
+形状 Shape
+
+bol = 圆 Sphere/Round/Circle
+
+方 Square
+
+三角形 Triangle
+
+椭圆/蛋  Oval/Egg
+
+表面 Surface
+
+平 Flat
+
+凹 Concave
+
+凸 Convex
+
+---
+
+时间 Time
+
+频率 Frequency
+
+日子 Date
+
+早午晚 morning, noon, night
+
+已经 already (done)
+
+刚刚发生 Just happened
+
+曾经 previously (not anymore)
+
+正在 (还在发生着) eg: eating (not finished yet)
+
+- Right now?
+
+正当 Meanwhile,
+
+I was eating, when...
+
+将要 will (in the future)
+
+- Next (+moment) = soon later
+
+- Next + Next +moment = long time later
+
+经常 Frequently
+
+- happening + plural
+
+一直 Always
+
+偶尔 Seldom
+
+随机地 randomly
+
+日期 Date
+
+几年 Year
+
+1. Rotation + Sun
+
+2. Cycle + Sun
+
+几月 Month
+
+1. Rotation + Moon
+
+2. Cycle + Moon
+
+几号
+
+1. Rotation+ Earth
+
+2. Cycle + Earth
+
+星期 Week
+
+1. Seven + Day
+
+2. Seven + Cycle
+
+今天 Today = This + Day
+
+昨天 Yesterday = Previous + Day
+
+后天 The day after tomorrow = Next + Next + Day
+
+时间 Time:
+
+1. 几点 What time is it now?
+
+---
+
+
+
+
 
 人物代名词 Pronouns
 
@@ -537,9 +605,11 @@ Neither
 
 ---
 
-大自然 Nature:
+大自然 Nature
 
-活物 Living thing: 
+生物学 Biology
+
+活物 Living thing 
 
 动物 Animal:
 
@@ -585,7 +655,21 @@ Cabbage
 
 胡萝卜 Carrot:
 
-Broccoli:
+Broccoli
+
+食物 Food
+肉类 Meat (Chicken, Fish, Pork, Lamb, Beef etc)
+鸡蛋 Egg
+面包 Bread
+披萨 Pizza
+蛋糕 Cake
+蔬菜 Vegetable
+玉蜀黍 Corn
+水果 Fruit
+苹果 Apple
+橙子 Orange/ Citrus
+米饭 Rice
+意大利面 Spaghetti
 
 ---
 
@@ -742,22 +826,6 @@ Namaste
 植物 Plant
 机器 Machine (includes all electronics)
 
----
-
-食物 Food
-肉类 Meat (Chicken, Fish, Pork, Lamb, Beef etc)
-鸡蛋 Egg
-面包 Bread
-披萨 Pizza
-蛋糕 Cake
-蔬菜 Vegetable
-玉蜀黍 Corn
-水果 Fruit
-苹果 Apple
-橙子 Orange/ Citrus
-米饭 Rice
-意大利面 Spaghetti
-
 
 
 ---
@@ -825,3 +893,39 @@ Namaste
 暴力 Violence
 爱 Love
 尊敬 Respect
+
+---
+
+外来的 Foreign
+
+外星人 Alien
+
+拉丁语字母 Latin alphabet
+
+国家 Nation
+
+爱国 Patriotic
+
+分裂 Discrimination
+
+yibi = 人道 Humanity
+
+USA
+
+中国
+
+Россия
+
+Bhārat Gaṇarājya
+
+Europe
+
+---
+
+科学 Science
+
+宇宙 Universe
+
+All 
+
+Everything
