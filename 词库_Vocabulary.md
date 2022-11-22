@@ -150,9 +150,13 @@ White = All + Rainbow
 
 身体 Body:
 
+- Up + Body = Climb
+
 **
 
 眼 Eye:
+
+- 动词 Verb = To see
 
 **
 
@@ -194,13 +198,25 @@ White = All + Rainbow
 
 上肢 = Up + limbs
 
-1. 脚 Leg
-   
-   1. 下肢 = Down/Lower + limbs
+**
 
-2. 臀部 Buttock
+脚 Leg
 
-3. 尾巴 Tail
+- Fast + Leg = Run
+
+- Slow + Leg = Walk
+
+- Up + Leg = Jump
+
+**
+
+
+
+下肢 = Down/Lower + limbs
+
+1. 臀部 Buttock
+
+2. 尾巴 Tail
 
 ---
 
