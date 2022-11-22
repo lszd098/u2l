@@ -766,6 +766,8 @@ Word:
 
 ---
 
+#mu
+
 | 🔣    | mu   | 👄 有关嘴巴 Mouth related               |
 | ----- | ---- | ----------------------------------- |
 | 🤖    | mui  | 嘴巴 Mouth                            |
@@ -783,13 +785,23 @@ Word:
 
 - xhimua (xhi + mu) 💩👄 = 咒骂 To curse/scold
 
+- muxhimui (mu+ xhi + mu) 👄💩👄 = 互骂 Quarrel (between 2 mouths)
+
 - muisu (muis + u) = 吵闹的地方 Noisy place 
 
 - 牙齿 Teeth (Bone + Mouth)
 
+- 喝水 Drink (Water + Mouth)
+
 - 说话 Speak (Sound + Mouth)
 
 - 唱歌 Sing (Music + Mouth)
+
+- Bite
+
+- Chew
+
+- Swallow
 
 ---
 
