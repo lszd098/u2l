@@ -1,11 +1,5 @@
 Let's have fun & build vocabulary for our language. Please leave new suggestion or any comment below:
 
-Vocabulary include:
-
----
-
-常用词 Commonly used:
-
 ---
 
 Miscellaneous:
@@ -26,11 +20,10 @@ Miscellaneous:
    
    - e- is prefix for numbers right?
 
---
-
 爱 Love:
 
-1. One + Self/I/me
+1. 一体 + 私我 One + Self/I/me
+2. 無 + 私我 Without/No + Self/I/me
 
 开心 Happy:
 
@@ -61,6 +54,17 @@ Miscellaneous:
 恐惧 Fear
 
 1. Shrink + Emotion
+
+--
+紧张 Anxiety:
+
+1. 长久+收缩+情绪 Long + Shrink + Emotion
+
+--
+尊敬 Respect
+
+1. 敬礼+情绪 Salute + Emotion
+2. 
 
 ---
 
@@ -382,6 +386,10 @@ Miscellaneous:
 
 身体 Body:
 
+身体 Body
+
+--
+
 1. 眼
 
 2. 耳朵 Ear
@@ -448,11 +456,17 @@ Computer / PC:
 
 1. pici
 
+--
+
 internet:
 
 1. internei
 
 --
+
+washing machine
+
+TV
 
 ---
 
