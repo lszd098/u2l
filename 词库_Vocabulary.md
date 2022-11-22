@@ -2,123 +2,145 @@ Let's have fun & build vocabulary for our language. Please leave new suggestion 
 
 ---
 
-数学 Mathematics:
+- 数学 Mathematics:
 
-1. wan = (一) One
+- wan = (一) One
 
-2. dum = (二) Two
-   
-   - tum ?
+- dum = (二) Two
+  
+  - tum ?
 
-3. trin = (三) Three
-   
-   - xan ?
+- trin = (三) Three
+  
+  - xan ?
 
-4. kuam = (四) Four
-   
-   - fom ?
+- kuam = (四) Four
 
-5. pen = (五) Five
+- - fom ?
 
-6. nam = (六) Six
+- pen = (五) Five
 
-7. cin = (七) Seven
-   
-   - tin ?
+- nam = (六) Six
 
-8. bom = (八) Eight
+- cin = (七) Seven
 
-9. gun = (九) Nine
+- - tin ?
 
-10. tem = (十) Ten
+- bom = (八) Eight
 
-11. tem-wan = (十一) Eleven
+- gun = (九) Nine
 
-12. dutem-wan = (二十一) Twenty-one
+- tem = (十) Ten
 
-13. kom = (零) Zero
+- tem-wan = (十一) Eleven
 
-14. wan edum = (一百) One hundred = 100 = 1x10^2 = 1e2
+- dutem-wan = (二十一) Twenty-one
 
-15. wan ewanedum / wan ewakokom = One googol = 1x10^100 = 1e100 = 1e(1e2)
+- kom = (零) Zero
 
-16. san esam = (三千) One Thousand = 3x10^3 = 3e3
+- wan edum = (一百) One hundred = 100 = 1x10^2 = 1e2
 
-17. dum ebom = (两万) Twenty Thousand = 2x10^4
+- wan ewanedum / wan ewakokom = One googol = 1x10^100 = 1e100 = 1e(1e2)
 
-18. wan edum tem wan / wawawam = 111 One hundred & eleven
+- san esam = (三千) One Thousand = 3x10^3 = 3e3
 
-19. wan ewanedumtemwam / wan ewawawam = One septemtrigintillion = 1e111
+- dum ebom = (两万) Twenty Thousand = 2x10^4
 
-20. wan edum dutem nam = 126
+- wan edum tem wan / wawawam = 111 One hundred & eleven
 
-21. wan ewanedumdutemnam / wan ewadunam = One duoquardragintillion = 1e126
+- wan ewanedumtemwam / wan ewawawam = One septemtrigintillion = 1e111
 
-22. pen esam = 5000
+- wan edum dutem nam = 126
 
-23. wan epenesam / wan epekokokom = 1x10^5000 = 1e5000
+- wan ewanedumdutemnam / wan ewadunam = One duoquardragintillion = 1e126
 
-24. ban = 一半 Half
+- pen esam = 5000
 
-25. 加 Addition
+- wan epenesam / wan epekokokom = 1x10^5000 = 1e5000
 
-26. 减
+- ban = 一半 Half
 
-27. 乘 Multiplication
+- 加 Addition
 
-28. 除 Division
+- 减
 
-29. 大数字 Big numbers: https://simple.wikipedia.org/wiki/Names_of_large_numbers
+- 乘 Multiplication
 
-30. wanu = 第一 First place, Number one
+- 除 Division
 
-31. 最后 Last
+- 大数字 Big numbers: https://simple.wikipedia.org/wiki/Names_of_large_numbers
 
-32. 负一 Negative one = -1
+- wanu = 第一 First place, Number one
 
-33. Zero point zero one = 0.01
+- 最后 Last
 
-34. 分数 Fraction
-    
-    - 1 over 2
-    
-    - 1 divided by 2
+- 负一 Negative one = -1
 
-35. 算数 Calculate
+- Zero point zero one = 0.01
 
-36. Equal
+- 分数 Fraction
+
+- - 1 over 2
+  
+  - 1 divided by 2
+
+- 算数 Calculate
+
+- Equal
 
 ---
 
-颜色 Color:
+- 颜色 Color:
 
-1. 🔴 Red
-   
-   1. re
-   
-   2. ro
-   
-   3. hong
+**
 
-2. 🟡 Yellow
+🔴 Red
 
-3. 🔵 Blue
+- re
 
-4. Orange = 🔴+ 🟡
+- ro
 
-5. Green = 🟡 + 🔵
+- hong
 
-6. Purple = 🔴 + 🔵
+**
 
-7. ⚫ Black = All + Color
+🟡 Yellow
 
-8. Red-brown = ⚫ + 🔴
+**
 
-9. Yellow-brown = ⚫ + 🟡
+🔵 Blue
 
-10. Rainbow = 7 + Color
+**
 
-11. White = All + Rainbow
+Orange = 🔴+ 🟡
+
+**
+
+Green = 🟡 + 🔵
+
+Purple = 🔴 + 🔵
+
+⚫ Black = All + Color
+
+Red-brown = ⚫ + 🔴
+
+Yellow-brown = ⚫ + 🟡
+
+Rainbow = 7 + Color
+
+White = All + Rainbow
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -168,17 +190,17 @@ Let's have fun & build vocabulary for our language. Please leave new suggestion 
 
 **
 
-1. 手 Hand
-   
-   1. 上肢 = Up + limbs
+手 Hand
 
-2. 脚 Leg
+上肢 = Up + limbs
+
+1. 脚 Leg
    
    1. 下肢 = Down/Lower + limbs
 
-3. 臀部 Buttock
+2. 臀部 Buttock
 
-4. 尾巴 Tail
+3. 尾巴 Tail
 
 ---
 
