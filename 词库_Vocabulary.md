@@ -1,1153 +1,580 @@
-This page is WIP. If you found any bug or confusing info, please inform us via any means.
+Let's have fun & build vocabulary for our language. Please leave new suggestion or any comment below:
+
+Vocabulary include:
 
 ---
 
-Root Character is the basic idea which can be used as basic material to form more complex word. For example: Hand+Time= Wrist watch, Positive+Body= Health. Those Cooing form is tentative, we put it this way so that you get the rough idea. We are open to discussion, amendment & new suggestion. 
+常用词 Commonly used:
 
 ---
 
-Each word could exist in 8 different forms, by simply changing the suffix (ending).
-
-Word:
-
-1. 🔣= Root form is the root meaning (can be a broad meaning with multiple definitions)
-
-2. 🤖= Noun form (Neutral), eg: pencil, kindness, human (if no specific inclination mentioned)
-
-3. 👩‍🦰 = Noun form (Feminine), eg: human, animal, object (in beautiful poem form)
-
-4. 🎅= Noun form (Masculine), eg: human, animal, object (in beautiful poetic form)
-
-5. 👫 = Noun (Plural form), eg: human, animal, object (in beautiful poetic form)
-
-6. 🏃‍♂️= Verb/Action form, eg: run, eat, speak
-
-7. ✨ = Adjective/Adverb form, used to describe nouns, verbs or the whole situation, eg: shiny, beautifully
-
-8. 🏚 = Space/Location/Position form, eg: Here, there
-
-9. 🕒 = Time/Duration form, eg: Now, a long time ago, then
-
----
-
-🔣: xpiwen (xpi + wen) = 语文 Language (Speech & Text)
-
-1. 🤖: xpiweni = 语文
-
-2. 🏃‍♂️: xpiweno = 使用语文
-   
-   1. xpiwenoi = 使用语文者
-   2. 
-
-3. ✨: 语文的
-
-4. 🏚: 语文的地方
-
-5. 🕒: 语文的时间
-
----
-
-🔣: xpi = Speech
-
-1. 🤖: Speech
-
-2. 👩‍🦰: Speaker
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: Speak
-
-6. ✨:
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: wen = 文字 Text 
-
-1. 🤖: text
-
-2. 👩‍🦰: Writer
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: wena = 产出字 (任何方法) Produce text (via any method)
-   
-   1. 用手机打字 Texting with phone/PC
-   
-   2. 用笔写字 Writing with pen
-
-6. ✨: 
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: zia = 正面, 加法, 与 Positive, plus, add, and
-
-1. 🤖: ziai = Positive tangible
-
-2. 👩‍🦰: zial = 正面的人, 辩论的正方
-
-3. 🎅: ziaj
-
-4. 👫: ziais = 多个
-
-5. 🏃‍♂️: ziao = Add (plus in math), increase
-
-6. ✨: ziab = 正面的
-
-7. 🤖: ziabi = 正极 (抽象的概念)
-
-8. 🏚:
-
-9. 🕒:
-
----
-
-🔣: vo = ✔认同, 对, 正确
-
-1. 🤖:
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨:
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: xi = ❎ 不, 反对 No, not
-
-1. 🤖: xii = No
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: 
-
-6. ✨: xib = Not
-
-7. 🏚: xiu
-
-8. 🕒: xio
-
----
-
-🔣: yi = 人 Human
-
-1. 🤖: yii = Human, human-like object
-
-2. 👩‍🦰: yil = 女人
-
-3. 🎅: yij = 男人
-
-4. 👫: yiis = 大众 Public, The people
-
-5. 🏃‍♂️: yio 
-
-6. ✨: yib = 
-   
-   1. 人事的 Human resource related
-   
-   2. 人民的
-   
-   3. 人类的
-
-7. 🏚: yiu= 有人的地方
-
-8. 🕒: yio = 
-
----
-
-🔣: 使用
-
-1. 🤖: Tool, machine
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫: 
-
-5. 🏃‍♂️: 使用 Use
-
-6. ✨:
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: ping= 平行, 水平线, 平坦 Horizontal
-
-1. 🤖:
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨:
-
-7. 🏚: pingef = 水平线
-
-8. 🕒:
-
----
-
-🔣:
-
-1. 🤖:
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨:
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: me = 概率, 可能
-
-1. 🤖:
-
-2. 👩‍🦰: mel = 嫌疑女
-
-3. 🎅: mej = 嫌疑男
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨: meb = 可能
-   
-   1. 例句: 可能会发生, 可能是
-
-7. ✨: mebi 概率, 可能性 Possibility
-
-8. ✨: med = 或许吧
-
-9. 🏚:
-
-10. 🕒:
-
----
-
-🔣: sem = 同类, 类似 Same, similar
-
-1. 🤖: semi = 同类
-
-2. 👩‍🦰: semil = 同辈的姐妹 Sister, peer
-
-3. 🎅: semij = 同辈的兄弟 Brother, peer
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨: Similar
-   
-   1. Exactly + Similar = Same (Precise)
-
-7. 🏚: 
-   
-   1. 例句: Similar to this place
-
-8. 🕒:
-   
-   1. 例句: Similar to this time?
-
----
-
-🔣: State, situation
-
-1. 🤖: 状态 State
-
-2. 👩‍🦰: 妇科
-
-3. 🎅: 男科
-
-4. 👫: 健康状态
-
-5. 🏃‍♂️: 是 is
-
-6. ✨:  
-
-7. 🏚: 地理位置
-
-8. 🕒: 时间
-
----
-
-🔣: biu = 射击 Shoot (eg: with gun)
-
-1. 🤖:
-
-2. 👩‍🦰: biul = Female shooter
-
-3. 🎅: biuj = Male shooter
-
-4. 👫:
-
-5. 🏃‍♂️: biuya = 射击 Shoot (eg: with gun)
-
-6. ✨: biuyeb = 射击的
-
-7. 🤖: ibiuyebi = 被射击到的人 People who was shot
-
-8. 🏚:
-
-9. 🕒:
-
----
-
-🔣: pia = 打(人/物) Hit, Strike
-
-1. 🤖:
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: piaa = 打(人/物) Hit, Strike
-   
-   - wal piaa anij = 我打他 I hit him.
-
-6. ✨:
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: Smooth
-
-1. 🤖: Smoothness
-
-2. 👩‍🦰: 
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨: Smooth
-   
-   - A smooth life is a good & healthy life.
-
-7. 🏚:
-
-8. 🕒:
-
-9. 相关词: 
-   
-   1. 运动 Exercise = Smooth + Move
-   
-   2. 劳动 Labor = Forced + Move
-
-10. 
-
----
-
-🔣: 迟, 末端的, 最后的 Late, last (类似 Stop, ended, completed) 融合?
-
-1. 🤖:
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨:
-
-7. 🏚: 
-
-8. 🕒: 晚间 Night time
-
----
-
-🔣: 里 middle, inside, in
-
-1. 🤖:
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨:
-
-7. 🏚: 里面 (空间)
-
-8. 🕒: 某时段内,12am, 12pm (middle of a day or a night)
-
----
-
-🔣: 幸福, 平静 Joy, peaceful, calm
-
-1. 🤖: Joy, peace, calm
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: Love. *Peace* is joy at rest. Joy is *peace* in *motion*
-
-6. ✨: Joyous, peaceful. 
-
-7. 🏚: ???
-
-8. 🕒: ???
-
----
-
-🔣: ho = H2O 💦/💧 液体 Liquid water
-
-1. 🤖: hoi = Liquid, Plain water, Rain etc
-
-2. 👩‍🦰: hol = Female liquid from urethra
-
-3. 🎅: hoj = Male liquid, semen
-
-4. 👫:
-
-5. 🏃‍♂️: 液化 Liquify
-
-6. ✨: hob = Watery
-   
-   1. ☁ + 💧 = 下雨的 Rainy (it is rainy today)
-
-7. 🏚: hou = 积水/存水的地方 Watery place, ponding
-
-8. 🕒: hoo
-
----
-
-🔣: homa 💧👄 ho + ma  = Liquid + Mouth
-
-1. 🤖: homai = (Anybody) who drinks
-
-2. 👩‍🦰: homal = Female who drinks
-
-3. 🎅: homaj = Male who drinks
-
-4. 👫:
-
-5. 🏃‍♂️: homaa = 喝 (任何液体) Drink (any liquid eg: water, juice)
-
-6. ✨: homab = 可以喝的 Drinkable (adjective)
-
-7. 🤖: homabi = 饮料 Drinkable drinks (item)
-
-8. 🏚:
-
-9. 🕒:
-
----
-
-🔣: fa = 💩 灰尘, 污秽, 肮脏 Dirt, filthy
-
-1. 🤖: fai = 灰尘, 脏物 Dirt
-
-2. 👩‍🦰: fal = 肮脏的女人
-
-3. 🎅: faj = 肮脏的男人
-
-4. 👫: fais = 
-
-5. 🏃‍♂️: faq, fao, faq = 弄脏
-   
-   1. 💩 + 👄 = 骂人, 飙脏话 Cursing, Scold
-   2. 👄 + 💩 = 呕吐 Vomit
-
-6. ✨: fab = 肮脏的 Dirty
-
-7. 🏚: faf = 肮脏的地方, 比如桌面
-
-8. 🕒: fat = 
-
----
-
-🔣: 🖐 = 手 hand
-
-1. 🤖:
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: 用手触摸 Touch (by hand/finger)
-
-6. ✨: 
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: No = 依序排名
-
-1. 🤖: 排名
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫: 
-
-5. 🏃‍♂️: 依序排名, 整理 Arrange
-
-6. ✨: Nob = 第几 Number
-
-7. 🏚: Nof = 方位, 方向, 角度
-
-8. 🕒: Not = O'clock
-
----
-
-🔣: da = 扩大, 膨胀 Expand
-
-1. 🤖:
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: daa = 扩大, 打开 To expand, open
-
-6. ✨: dab = 大的 Large
-
-7. 🏚: dau = 扩大空间
-
-8. 🕒: dat = 延长时间
-
----
-
-🔣: 发源, 开始, 起源 Start, origin
-
-1. 🤖: Source
-
-2. 👩‍🦰: Founder
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: 启动, 导致 Start, initiate, cause
-
-6. ✨: 被(我) Done by (eg: me), Made of (certain material)
-
-7. 🏚: 起点 From (where)
-
-8. 🕒: From (what time)
-
----
-
-🔣: 停止, 完成了 Stop, ended, completed
-
-1. 🤖: 队伍的最后一个物
-
-2. 👩‍🦰: 队伍的最后一个人 End of queue 
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: Stop, end a process, complete
-
-6. ✨: 停止了的 Stopped (already)
-   
-   - I've finished eating (Eating stopped already)
-
-7. 🏚: 终点, 车站 Stop (eg: bus stop), To where
-
-8. 🕒: Break (for rest), Until what time
-
----
-
-🔣: pro = 专业, 专研, 专科 Profession , mastering
-
-1. 🤖:
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨:
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: pra = 之前的 Previous
-
-1. 🤖: prai = Previous object/person
-
-2. 👩‍🦰: pral = 前任女伴, 队伍内我前面的女人 Ex- female partner, Woman in front of me in queue
-
-3. 🎅: praj = 前任男伴, 队伍内我前面的男人 Ex- male partner, Man in front of me in queue
-
-4. 🏃‍♂️: praq, prao, prap 留下遗产 Bequeath (eg: position, fortune)
-
-5. ✨: prab = 之前的 Previous
-
-6. 🏚: praf = 前一站 Previous place
-
-7. 🕒: prat = 不久前, 刚才 Previous moment (not long ago)
-
----
-
-🔣: apra = Next 下一个
-
-1. 🤖: Next object/person
-
-2. 👩‍🦰: 下一任, 继承(财产)者 Next person = Successor (position/career), Heir
-
-3. 🎅: --
-
-4. 👫: --
-
-5. 🏃‍♂️:  继承职位/财产 Inherit (eg: position, fortune)
-
-6. ✨: aprab = 下一个 Next
-
-7. ✨: aprad = 接下来, 然后 Then
-
-8. 🏚: Next place = Destination
-
-9. 🕒: Next moment = Soon (not long later)
-
----
-
-🔣: bo = 球体 Ball-like object
-
-1. 🤖: boi = 球 Ball
-
-2. 👩‍🦰: bol = 女人的胸部 Women's breasts 
-
-3. 🎅: boj = 男人的睾丸 Men's balls, testes
-
-4. 🏃‍♂️: boo = 玩球 (通常用于儿童) Play ball (normally for children)
-
-5. ✨: bob = 球的 Of ball, ball-related
-
-6. 🏚: bof = Ball place
-
-7. 🕒: bot = Ball time 
-
----
-
-🔣: 发生, 出现 happen, appear
-
-1. 🤖: 出现的物
-
-2. 👩‍🦰: 出现的人
-
-3. 🎅: --
-
-4. 👫: -- 
-
-5. 🏃‍♂️: 发生, 出现
-
-6. ✨:  出现的?
-
-7. 🏚: ??? 出现的地点?
-
-8. 🕒: 正在发生
-
----
-
-🔣: du = 食物 Food, Nutrient
-
-1. 🤖: 食物
-
-2. 👩‍🦰: 厨师
-
-3. 🎅: 厨师
-
-4. 👫: 食物
-
-5. 🏃‍♂️: 准备食物 Prepare food
-
-6. ✨: 食物相关的
-
-7. 🏚: 厨房 Kitchen
-
-8. 🕒: Time to prepare food (eg: housewife, cook)
-
----
-
-🔣: 
-
-1. 🤖: peer
-
-2. 👩‍🦰: sister
-
-3. 🎅: brother
-
-4. 👫: peers
-
-5. 🏃‍♂️:
-
-6. ✨:
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: mu = mouth嘴巴 Mouth
-
-1. 🤖: mui = 嘴巴 Mouth
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: mua = 亲嘴, 亲吻 Kiss
-
-6. ✨: mub = 嘴巴的 Mouth-related
-
-7. 🏚: muu = muwu = 吻痕 Kissing mark
-
-8. 🕒:
-
----
-
-🔣: fomu =🍔👄 吃 Eat =  Food + Mouth
-
-1. 🤖: fomai = 吃相
-
-2. 👩‍🦰: fomal 吃食物的人
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: fomao 吃 Eat
-
-6. ✨: fomab 可食用的 Edible
-
-7. 🏚: fomaf 食堂
-
-8. 🕒: fomat 吃饭的时间, 午休 Mealtime eg: Lunchtime
-
----
-
-🔣: zhoi = Play, enjoy, live
-
-1. 🤖:
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨: zhoib = Enjoyable
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: tem = 10 十  Ten
-
-1. 🤖:
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨:
-
-7. 🏚:
-
-8. 🕒: temo = 十点 10 o'clock
-
----
-
-🔣: wan = 1️⃣ (一) One
-
-1. 🤖: wani = 一体观 Oneness
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: wana = Unify into one
-
-6. ✨: waneb = 特定的 The (eg: the Sun, the food I mentioned just now)
-
-7. 🏚: wanu = 第一名 1st place (position)
-
-8. 🕒: wano = 1 o'clock
-
----
-
-🔣: Eye
-
-1. 🤖: i = Eye
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫: Eyes
-
-5. 🏃‍♂️: To see
-
-6. ✨: Visual
-
-7. 🏚: 
-
-8. 🕒:
-
----
-
-🔣: Nose
-
-1. 🤖: Nose
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
+Miscellaneous:
+
+1. Any
+2. Either
+3. Neither
+4. 
 5. 
 
-6. 🏃‍♂️:
-
-7. ✨:
-
-8. 🏚:
-
-9. 🕒:
-
 ---
 
-🔣: bi = 好看的, 美 Beautiful
+情绪 Emotion:
 
-1. 🤖:
+1. Movement + Energy + Human
 
-2. 👩‍🦰: bil = 美女 Beautiful female
-
-3. 🎅: bij = 美男 Pretty boy
-
-4. 👫:
-
-5. 🏃‍♂️:
-
-6. ✨: bib = 好看的 Beautiful
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: de = 耳朵 Ear 
-
-1. 🤖: dei = 耳朵 Ear
-
-2. 👫: deis = 多耳 Ears
-
-3. 🏃‍♂️: dea = 聆听 To listen (Action)
-
-4. 🤖: deai = 聆听者 Listener (Person who listens)
-
-5. ✨: deb = 耳朵的
+2. emo
    
-   - 耳机
+   - e- is prefix for numbers right?
+
+--
+
+爱 Love:
+
+1. One + Self/I/me
+
+开心 Happy:
+
+1.  Expand/Open + Emotion
+
+--
+
+兴奋 Excited:
+
+1. High + Emotion
+
+2. Up + Emotion
+
+--
+
+伤心 Sad:
+
+1. Down + Emotion
+
+--
+
+绝望 Depressed:
+
+1. Bottom + Emotion
+
+--
+
+恐惧 Fear
+
+1. Shrink + Emotion
+
+---
+
+数学 Mathematics:
+
+1. wan = (一) One
+
+2. dum = (二) Two
    
-   - 耳朵的疾病
+   - tum ?
 
-6. 🤖: debi = 耳朵听到的声音, 声音 Sound (perceived by ear)
+3. trin = (三) Three
    
-   - zhoidebi (zhoi + debi) = Music (Enjoy+ Sound)
+   - xan ?
 
-7. 
-
-8. 🏚:
-
-9. 🕒:
-
----
-
-🔣: 震动 Vibrate
-
-1. 🤖:震动 Vibration
-
-2. 👩‍🦰:
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: 震动 Vibrate
-
-6. ✨:
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-🔣: wa = 我 I / me
-
-1. 🤖: wai = 我 (中性/无性别), I / me (no specific sex)
-
-2. 👩‍🦰: wal = 我 (女性) I / me (female)
-
-3. 🎅: waj = 我 (男性) I / me (male)
-
-4. 👫: wais = 我们 (中性/无性别), We (no specific sex)
-
-5. 🏃‍♂️: waa = 变成我的 Make sth mine
-
-6. ✨: wab = 我的 My / Mine
-
-7. 🏚: wau = 我所在的地方, My current location
-
-8. 🕒: wao = 我的时间? My time, life
-
----
-
-🔣: ni = 这 This
-
-1. 🤖: niyi = 你 (无性的) This person/object in front of me = You
-
-2. 👩‍🦰: nil = 妳 This woman in front of me = You
-
-3. 🎅: nij = 你 This man in front of me = You
-
-4. 👫: niyis = 你们 You all (at least 2 people/objects)
-
-5. 🏃‍♂️: nia = 变成你的 Make sth yours
-
-6. ✨: nib = 你的 Your / Yours
-
-7. 🏚: niu = 这里 This place = Here
-
-8. 🕒: nio = 现在,当下 This moment = Now
-
-9. niu nio = 此地此时 Right here right now
-
----
-
-🔣: ani = 那 That
-
-1. 🤖: aniyi = 它 (无性的) That person/object = it 
-
-2. 👩‍🦰: anil = 她 That woman = She
-
-3. 🎅: anij = 他 That man = He
-
-4. 👫: aniyis = 他们 They / Them
-
-5. 🏃‍♂️: ania = 变成他的 Make sth his/hers
-
-6. ✨: anib = 他的 His / Her
-
-7. 🏚: aniu = 那里 That place = There
-
-8. 🕒: anip = 那时,当时 (未来) That moment (future)
-
-9. 🕒: aniq = 那时,当时 (过去) That moment (past)
-
----
-
-🔣: 是 be / am / is / are / was / were
-
-1. 🤖: Being, Existence 
-
-2. 👩‍🦰: 
-
-3. 🎅:
-
-4. 👫:
-
-5. 🏃‍♂️: 是 am / is / are / was / were
+4. kuam = (四) Four
    
-   1. 是存在的 It does exist, it exists indeed, in fact
+   - fom ?
 
-6. ✨: 被 being (eg: being eaten)
+5. pen = (五) Five
 
-7. 🏚:
+6. nam = (六) Six
 
-8. 🕒:
+7. cin = (七) Seven
+   
+   - tin ?
 
----
+8. bom = (八) Eight
 
-🔣: wu = 地点 Space, Location
+9. gun = (九) Nine
 
-1. 🤖:
+10. tem = (十) Ten
 
-2. 👩‍🦰:
+11. tem-wan = (十一) Eleven 
 
-3. 🎅:
+12. dutem-wan = (二十一) Twenty-one
 
-4. 👫:
+13. kom = (零) Zero
 
-5. 🏃‍♂️: wua = 定位 (地理位置), 找寻 (失物) To locate, Find (eg: missing item)
+14. wan edum = (一百) One hundred = 100 = 1x10^2 = 1e2
 
-6. ✨:
+15. wan ewanedum / wan ewakokom = One googol = 1x10^100 = 1e100 = 1e(1e2)
 
-7. 🏚: wuu = 某个地点 Location
+16. san esam = (三千) One Thousand = 3x10^3 = 3e3
 
-8. 🕒:
+17. dum ebom = (两万) Twenty Thousand = 2x10^4
 
----
+18. wan edum tem wan / wawawam = 111 One hundred & eleven
 
-🔣: 希望 Hope
+19. wan ewanedumtemwam / wan ewawawam = One septemtrigintillion = 1e111
 
-1. 🤖: Hope
+20. wan edum dutem nam = 126
 
-2. 👩‍🦰:
+21. wan ewanedumdutemnam / wan ewadunam = One duoquardragintillion = 1e126
 
-3. 🎅:
+22. pen esam = 5000
 
-4. 👫:
+23. wan epenesam / wan epekokokom = 1x10^5000 = 1e5000
 
-5. 🏃‍♂️: 希望 Hope
+24. ban = 一半 Half
 
-6. ✨:
+25. 加 Addition
 
-7. 🏚:
+26. 减 
 
-8. 🕒:
+27. 乘 Multiplication
 
----
+28. 除 Division
 
-🔣: duang = 有弹性 Bouncy
+29. 大数字 Big numbers: https://simple.wikipedia.org/wiki/Names_of_large_numbers
 
-1. 🤖: duangi = 弹性 Bounciness
+30. wanu = 第一 First place, Number one
 
-2. 👩‍🦰: 
+31. 最后 Last
 
-3. 🎅:
+32. 负一 Negative one = -1
 
-4. 👫:
+33. Zero point zero one = 0.01
 
-5. 🏃‍♂️:
-
-6. ✨: duangeb = 有弹性的 Bouncy
-
-7. 🏚:
-
-8. 🕒:
-
----
-
-
-
----
-
----
-
----
-
-这 This, This object, You, This act, ???, Here, Now
-
-12. 那 That, That thing, He/She, That act, There, That moment (not specific)
+34. 分数 Fraction
     
-           - Used like "The" when the object is not in front of you.
+    - 1 over 2
+    
+    - 1 divided by 2
 
-13. 上 Up,  ???,  People on top,  Go up,  Upward,  North,  ??? 
+35. 算数 Calculate
 
-14. 之前 Previous, Previous object, Previous person, Previous act, Previous visited place, Previously (not long ago)
+36. Equal
 
-15. 过后 Next, 
-
-16. 一 One
-
-17. 我 I/ me
-
-18. 正面/正气 Positive
-
-19. 负面/邪气 Negative
-
-20. 钱 Money
-
-21. 时间 Time
-
-22. 空间 Space (mean 3D space, not outer space)
-
-23. 手 Hand
-
-24. 脚 Foot
-
-25. 身体 Whole body
+37. 
 
 ---
 
-参考 ref:  阴阳五行 https://baike.baidu.com/item/%E9%98%B4%E9%98%B3%E4%BA%94%E8%A1%8C/782340
+时间性 Timing/Frequency:
+
+1. 日子 Date & Time
+
+2. 早午晚 morning, noon, night
+
+3. 已经 already (done)
+
+4. 刚刚发生 Just happened
+
+5. 曾经 previously (not anymore)
+
+6. 正在 (还在发生着) eg: eating (not finished yet)
+   
+   - Right now?
+
+7. 正当 Meanwhile,
+   
+   I was eating, when...
+   
+   将要 will (in the future)
+   
+   - Next (+moment) = soon later
+   
+   - Next + Next +moment = long time later
+
+8. 经常 Frequently
+   
+   - happening + plural
+
+9. 一直 Always
+
+10. 偶尔 Seldom
+
+11. 随机地 randomly
+
+12. 日期 Date
+
+13. 几年 Year
+    
+    1. Rotation + Sun
+    
+    2. Cycle + Sun
+
+14. 几月 Month
+    
+    1. Rotation + Moon
+    
+    2. Cycle + Moon
+
+15. 几号
+    
+    1. Rotation+ Earth
+    
+    2. Cycle + Earth
+
+16. 星期 Week
+    
+    1. Seven + Day
+    
+    2. Seven + Cycle
+
+17. 今天 Today = This + Day
+
+18. 昨天 Yesterday = Previous + Day
+
+19. 后天 The day after tomorrow = Next + Next + Day
+
+20. 时间 Time:
+    
+    1. 几点 What time is it now?
+
+---
+
+颜色 Color:
+
+1. 🔴 Red
+   
+   1. re 
+   
+   2. ro
+   
+   3. hong
+
+2. 🟡 Yellow
+
+3. 🔵 Blue
+
+4. Orange = 🔴+ 🟡
+
+5. Green = 🟡 + 🔵
+
+6. Purple = 🔴 + 🔵
+
+7. ⚫ Black = All + Color
+
+8. Red-brown = ⚫ + 🔴
+
+9. Yellow-brown = ⚫ + 🟡
+
+10. Rainbow = 7 + Color
+
+11. White = All + Rainbow 
+
+---
+
+人物代名词 Human Pronouns
+
+1. 我 I/me:
+   
+   1. wai = neutral form
+   
+   2. wal = feminine form
+   
+   3. waj = masculine form
+
+2. wais = 我们 We
+
+3. 大家 Everyone/ Anyone/ All
+
+4. 其他人 Others
+
+5. 大众 Public 
+
+6. 人民 The People
+
+7. 人类 Human being / Home Sapiens
+
+---
+
+连词 Conjunctions:
+
+1. 表示并列关系的连词：
+   
+   1. 和、跟、与、既、及、而、又、Plus, and
+   
+   2. 一面⋯⋯一面, 同时 Meanwhile
+   
+   3. ⋯⋯等 etc
+
+2. 表示选择关系的连词：
+   
+   1. 或、或者、还是 Or, Either...or
+
+3. 表示转折关系的连词：
+   
+   1. 但是、不过 But
+   
+   2. 虽然 Although
+   
+   3. 然而
+
+4. 表示因果关系的连词：
+   
+   1. 由于, 因为, 以致 Because
+      
+      1. 被造成 Be-cause 
+   
+   2. 因此、所以 So
+
+5. 表示递进关系的连词：不但、不仅、而且、何况、并、且等。
+
+6. 表示条件关系的连词：不管、只要、除非等。
+
+7. 表示假设关系的连词：如果、即使、假若、假如等。
+
+8. 表示目的关系的连词：以、以便、以免、为了等。
+
+9. 表示承接关系的连词：又、便、于是、然后、之后等。
+
+10. 表示比较关系的连词：与其、不如。
+
+---
+
+请求, 命令, 给意见的时候 Requesting, Ordering, Giving advise:
+
+1. 我愿意 I'm willing to
+
+2. 希望 hope
+
+3. 可以 You could
+
+4. 应该 You should
+
+5. 必须/一定要 You must
+   
+   ---
+
+活物 Living thing 
+
+1. 动物 Animal:
+   
+   1. 犬科 Canis 
+      
+      1. 狼 Wolf = Canis
+      
+      2. 狗 Dog = Home + Canis
+   
+   2. 🐈 猫科 Felid
+      
+      1. 家猫 Cat = = Home + Felid
+      
+      2. 老虎
+      
+      3. 狮子
+      
+      4. 猎豹
+   
+   3. 野兽 Beast
+   
+   4. 🐂 牛 Cow
+   
+   5. 🐎 马 Horse
+   
+   6. 山羊 Goat, 绵羊 Sheep
+   
+   7. 老鼠 Mouse
+   
+   8. 猴子 Monkey = similar + human
+   
+   9. 鸡 Chicken, 鸡肉 
+   
+   10. 猪 Pig,  猪肉 pork
+
+---
+
+身体 Body:
+
+1. 眼
+
+2. 耳朵 Ear
+
+3. 鼻子
+
+4. 嘴巴
+
+5. 舌头
+
+6. 头部
+
+7. 脸部
+
+8. 手 Hand
+   
+   1. 上肢 = Up + limbs
+
+9. 脚 Leg
+   
+   1. 下肢 = Down/Lower + limbs
+
+10. 臀部 Buttock
+
+11. 尾巴 Tail
+
+---
+
+动词 Verb:
+
+1. Love, attract, like, hate
+
+2. Move, 
+
+3. Walk = Move + Slow
+
+4. Run = Move + Fast 
+
+5. Jump = Move + Up
+
+6. Dive = Move + Down
+
+---
+
+金融 Finance:
+
+1. 钱 Money, Currency
+
+2. 价钱 Price, Buy 
+
+3. 起价 Price goes up
+
+4. 便宜点 Cheaper please
+
+5. 汽油 Gas (Fuel)
+
+6. Bank
+
+---
+
+电类 Electronics:
+
+Computer / PC:
+
+1. pici
+
+--
+
+internet:
+
+1. internei
+
+--
+
+
+
+---
+
+---
+
+人物 Social:
+
+1. 父母 Parent = father + mother
+
+2. 🧍‍♂️ + 🧍‍♂️
+
+3. 家庭 Family = 🧍‍♂️ + 🧍‍♂️ + 🧍‍♂️
+
+4. 爷爷/奶奶Grandpa/ma
+   (5)     previous + father
+   (6)         great(xN) grandpa = previous (xN) + previous + father + #
+   (7) 兄弟姐妹 Sibling
+   (8) 堂/表哥Cousin
+   (9)     father + Sibling + Children
+   (10) 孩子 Children/ Offspring
+   (11) 老板 Boss
+   (12)     hand + money + noun
+   (13) 员工 Employee
+   (14)     money + hand + noun
+   (15) 警察 Police
+   (16) 医生 Doctor
+   (17)     positive + body + verb + noun
+   (18) 病人 Patient
+   (19)     negative + body + noun
+   (20) 律师 Lawyer
+   
+   ---
+
+疑问 Enquiries:
+What
+Who
+Where
+When
+How
+
+插話 Interjection:
+Hi
+早安 Good morning etc
+Namaste 
+小心 Watch Out!
+惊讶 Oh My God!
+再见 Bye
+
+通用 General:
+时间 Time
+空间 Space
+颜色 Color
+重量 Mass
+能量 Energy
+科学 Science
+动物 Animal
+植物 Plant
+机器 Machine (includes all electronics)
+
+食物 Food:
+食物 Food
+肉类 Meat (Chicken, Fish, Pork, Lamb, Beef etc)
+鸡蛋 Egg
+面包 Bread
+披萨 Pizza
+蛋糕 Cake
+蔬菜 Vegetable
+玉蜀黍 Corn
+水果 Fruit
+苹果 Apple
+橙子 Orange/ Citrus
+米饭 Rice
+意大利面 Spaghetti
+
+动词:
+拥有 Have (我有钱, 但是不是我的钱)
+吃 Eat
+喝 Drink
+睡觉 Sleep
+拉屎 Take a dump
+撒尿 Urinate
+穿 Wear
+住 Stay at
+运动 Exercise
+游戏 Play
+行 transporting
+移动箱子/搬家Move object (eg: box, house)
+行动 Get into action
+演戏/表演Acting/ performing
+拒绝 Reject
+接受 Accept
+骂人 Scold
+
+条件性 Conditional:
+可以 Can
+应该 Should
+必须/一定要Must
+
+情绪 Emotion:
+快乐 Happy
+伤心 Sad
+恐惧 Fear
+愤怒 Angry
+紧张 Anxious
+呕吐 Disgust
+疯狂 Crazy
+
+学校 School:
+师生 Teacher/ Student
+功课 Homework
+学习 Learn
+记住 Remember
+忘记 Forget
+帮助 Help
+发掘 Explore
+发现 Expose
+手枪 Gun (sadly nowaday we have to teach student how to protect themselves from guns)
+停止 Stop
+暴力 Violence
+爱 Love
+尊敬 Respect
