@@ -2,91 +2,93 @@ Let's have fun & build vocabulary for our language. Please leave new suggestion 
 
 ---
 
-- 数学 Mathematics:
+数学 Mathematics:
 
-- wan = (一) One
+wan = (一) One
 
-- dum = (二) Two
-  
-  - tum ?
+dum = (二) Two
 
-- trin = (三) Three
-  
-  - xan ?
+- tum ?
 
-- kuam = (四) Four
+trin = (三) Three
 
-- - fom ?
+- xan ?
 
-- pen = (五) Five
+kuam = (四) Four
 
-- nam = (六) Six
+- fom ?
 
-- cin = (七) Seven
+pen = (五) Five
 
-- - tin ?
+nam = (六) Six
 
-- bom = (八) Eight
+cin = (七) Seven
 
-- gun = (九) Nine
+tin ?
 
-- tem = (十) Ten
+bom = (八) Eight
 
-- tem-wan = (十一) Eleven
+gun = (九) Nine
 
-- dutem-wan = (二十一) Twenty-one
+tem = (十) Ten
 
-- kom = (零) Zero
+tem-wan = (十一) Eleven
 
-- wan edum = (一百) One hundred = 100 = 1x10^2 = 1e2
+dutem-wan = (二十一) Twenty-one
 
-- wan ewanedum / wan ewakokom = One googol = 1x10^100 = 1e100 = 1e(1e2)
+kom = (零) Zero
 
-- san esam = (三千) One Thousand = 3x10^3 = 3e3
+wan edum = (一百) One hundred = 100 = 1x10^2 = 1e2
 
-- dum ebom = (两万) Twenty Thousand = 2x10^4
+wan ewanedum / wan ewakokom = One googol = 1x10^100 = 1e100 = 1e(1e2)
 
-- wan edum tem wan / wawawam = 111 One hundred & eleven
+san esam = (三千) One Thousand = 3x10^3 = 3e3
 
-- wan ewanedumtemwam / wan ewawawam = One septemtrigintillion = 1e111
+dum ebom = (两万) Twenty Thousand = 2x10^4
 
-- wan edum dutem nam = 126
+wan edum tem wan / wawawam = 111 One hundred & eleven
 
-- wan ewanedumdutemnam / wan ewadunam = One duoquardragintillion = 1e126
+wan ewanedumtemwam / wan ewawawam = One septemtrigintillion = 1e111
 
-- pen esam = 5000
+wan edum dutem nam = 126
 
-- wan epenesam / wan epekokokom = 1x10^5000 = 1e5000
+wan ewanedumdutemnam / wan ewadunam = One duoquardragintillion = 1e126
 
-- ban = 一半 Half
+pen esam = 5000
 
-- 加 Addition
+wan epenesam / wan epekokokom = 1x10^5000 = 1e5000
 
-- 减
+ban = 一半 Half
 
-- 乘 Multiplication
+加 Addition
 
-- 除 Division
+减
 
-- 大数字 Big numbers: https://simple.wikipedia.org/wiki/Names_of_large_numbers
+乘 Multiplication
 
-- wanu = 第一 First place, Number one
+除 Division
 
-- 最后 Last
+大数字 Big numbers: https://simple.wikipedia.org/wiki/Names_of_large_numbers
 
-- 负一 Negative one = -1
+wanu = 第一 First place, Number one
 
-- Zero point zero one = 0.01
+最后 Last
 
-- 分数 Fraction
+负一 Negative one = -1
 
-- - 1 over 2
-  
-  - 1 divided by 2
+Zero point zero one = 0.01
 
-- 算数 Calculate
+分数 Fraction
 
-- Equal
+- 1 over 2
+
+- 1 divided by 2
+
+算数 Calculate
+
+Equal
+
+
 
 ---
 
@@ -103,8 +105,6 @@ Let's have fun & build vocabulary for our language. Please leave new suggestion 
 - hong
 
 - 
-
-
 
 🟡 Yellow
 
@@ -132,18 +132,6 @@ Rainbow = 7 + Color
 
 White = All + Rainbow
 
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 解剖学 Anatomy:
@@ -170,39 +158,37 @@ White = All + Rainbow
 
 鼻子
 
-**
+- 
 
-嘴巴 Mouth:
+mu = 有关嘴巴 Mouth-related:
 
-* mu 
+* mui = 嘴巴 Mouth
+- mua = 亲吻 To touch sth with mouth, Kiss (normally)
+
+- Food + Mouth = To eat
+
+- 
+
+xhe = 舌头 Tongue:
+
+* xhea = 舌吻 To French-kiss
+
+* To taste
   
-  
+  * Tongue + Food
 
-**
-
-舌头 Tongue:
-
-* 动词 Verb = To taste
-
-**
-
-
+* 
 
 头部  Head:
 
-**
-
-
-
-脸部  Face:
-
+* 脸部  Face:
 - Front + Head
 
 - 
 
-
-
 手 Hand
+
+- 
 
 - Shake hand
 
@@ -216,8 +202,6 @@ White = All + Rainbow
 
 - 
 
-
-
 脚 Leg
 
 - Fast + Leg = Run
@@ -225,10 +209,6 @@ White = All + Rainbow
 - Slow + Leg = Walk
 
 - Up + Leg = Jump
-
-**
-
-
 
 下肢
 
@@ -238,53 +218,76 @@ White = All + Rainbow
 
 臀部 Buttock
 
-生殖器 Genital
+- 生殖器 Genital
+
+- 
 
 尾巴 Tail （alien, animal)
 
+* Between + Buttock
+
+* 
+
+毛发 Hair:
+
+- 头发  Head + Hair = Hair (on top)
+
+- 阴毛  Genital + Hair
+
+- 腋毛  Arm + Hair = Armpit hair
+
 ---
-
-
 
 Miscellaneous:
 
-1. Any
+Any
 
-2. Either
+Either
 
-3. Neither
+Neither
+
+请求, 命令, 给意见的时候 Requesting, Ordering, Giving advise:
+
+我愿意 I'm willing to
+
+希望 hope
+
+可以 You could
+
+应该 You should
+
+必须/一定要 You must
 
 ---
 
 衣服 Clothing
 
-**
+* Protect + Body
 
-上衣 T-shirt:
+* Cover + Body
 
-**
+* 动词 Verb = 穿衣 To wear (cloth)
+
+* 
+
+上衣 Shirt:
+
+- Outer + Shirt = 外套 Coat
+* Inner + Shirt = 内衣 Bra
+
+* 
 
 裤子  Pant
 
-* **
+- Inner + Pant = 内裤 Panties
+
+- 
 
 鞋子  Shoes
 
 * 保护+脚  Protect + Foot
 
-**
-
-内衣  Bra
-
-* 里面+上衣
-
 * 
-
-内裤  Panties
-
-* 里面+裤子
-
-穿衣  Wear (cloth)
 
 ---
 
@@ -298,8 +301,23 @@ Miscellaneous:
 
 爱 Love:
 
-1. 一体 + 私我 One + Self/I/me
-2. 無 + 私我 Without/No + Self/I/me
+- 一体 + 私我 One + Self/I/me
+
+- 無 + 私我 Without/No + Self/I/me
+
+- 
+
+喜欢  Like:
+
+- Attract + Emotion
+
+- 
+
+憎恨 Hate:
+
+- Repel + Emotion = Dislike
+
+- Extreme + Repel + Emotion = Hate
 
 开心 Happy:
 
@@ -333,8 +351,6 @@ Miscellaneous:
 
 - 
 
-
-
 紧张 Anxiety:
 
 1. 长久+收缩+情绪 Long + Shrink + Emotion
@@ -345,11 +361,7 @@ Miscellaneous:
 
 1. 敬礼+情绪 Salute + Emotion
 
-
-
 ---
-
-
 
 时间性 Timing/Frequency:
 
@@ -457,27 +469,27 @@ Miscellaneous:
 
 ---
 
-人物代名词 Human Pronouns
+人物代名词 Pronouns
 
-1. 我 I/me:
-   
-   1. wai = neutral form
-   
-   2. wal = feminine form
-   
-   3. waj = masculine form
+我 I/me:
 
-2. wais = 我们 We
+- wai = neutral form
 
-3. 大家 Everyone/ Anyone/ All
+- wal = feminine form
 
-4. 其他人 Others
+- waj = masculine form
 
-5. 大众 Public 
+- wais = 我们 We
 
-6. 人民 The People
+大家 Everyone/ Anyone/ All
 
-7. 人类 Human being / Home Sapiens
+其他人 Others
+
+大众 Public 
+
+人民 The People
+
+人类 Human being / Home Sapiens
 
 ---
 
@@ -525,141 +537,184 @@ Miscellaneous:
 
 ---
 
-请求, 命令, 给意见的时候 Requesting, Ordering, Giving advise:
+大自然 Nature:
 
-1. 我愿意 I'm willing to
+活物 Living thing: 
 
-2. 希望 hope
+动物 Animal:
 
-3. 可以 You could
+犬科 Canis 
 
-4. 应该 You should
+狼 Wolf = Canis
 
-5. 必须/一定要 You must
-   
-   ---
+狗 Dog = Home + Canis
 
-活物 Living thing 
+🐈 猫科 Felid
 
-1. 动物 Animal:
-   
-   1. 犬科 Canis 
-      
-      1. 狼 Wolf = Canis
-      
-      2. 狗 Dog = Home + Canis
-   
-   2. 🐈 猫科 Felid
-      
-      1. 家猫 Cat = = Home + Felid
-      
-      2. 老虎
-      
-      3. 狮子
-      
-      4. 猎豹
-   
-   3. 野兽 Beast
-   
-   4. 🐂 牛 Cow
-   
-   5. 🐎 马 Horse
-   
-   6. 山羊 Goat, 绵羊 Sheep
-   
-   7. 老鼠 Mouse
-   
-   8. 猴子 Monkey = similar + human
-   
-   9. 鸡 Chicken, 鸡肉 
-   
-   10. 猪 Pig,  猪肉 pork
+家猫 Cat = = Home + Felid
+
+老虎
+
+狮子
+
+猎豹
+
+野兽 Beast
+
+🐂 牛 Cow
+
+🐎 马 Horse
+
+山羊 Goat, 绵羊 Sheep
+
+老鼠 Mouse
+
+猴子 Monkey = similar + human
+
+鸡 Chicken, 鸡肉 
+
+猪 Pig,  猪肉 pork
 
 ---
 
+植物 Plant:
 
+蔬菜 Vegetable:
 
-动词 Verb:
+Cabbage
 
-1. Love, attract, like, hate
+胡萝卜 Carrot:
 
-2. Move, 
+Broccoli:
 
-3. Walk = Move + Slow
+---
 
-4. Run = Move + Fast 
+动作  Verb/Action:
 
-5. Jump = Move + Up
+移动 Move:
 
-6. Dive = Move + Down
+- Move + Machine/Tool = 交通工具 Vehicle/Transport
 
 ---
 
 金融 Finance:
 
-1. 钱 Money, Currency
+钱,货币 Money, Currency
 
-2. 价钱 Price, Buy 
+1. 价钱 Price, Buy 
 
-3. 起价 Price goes up
+2. 起价 Price goes up
 
-4. 便宜点 Cheaper please
+3. 便宜点 Cheaper please
 
-5. 汽油 Gas (Fuel)
+4. 汽油 Gas (Fuel)
 
-6. Bank
+5. Bank
 
 ---
 
 电类 Electronics:
 
-Computer / PC:
+电子 Electron
 
-1. pici
+电脑 Computer / PC:
 
---
+- pici
 
-internet:
 
-1. internei
 
---
+互联网 internet:
 
-washing machine
+- internei
 
-TV
+
+
+洗衣机 Washing machine
+
+电视 TV
 
 ---
 
+
+
+人际关系 Social relationship:
+
+社会 Society
+
+- 
+
+
+
+养育者 People who raise me
+
+- 父亲 Father = Parent (masculine form)
+
+- 母亲 Mother = Parent (feminine form)
+
+- 父母(两人) = Parent (plural form)
+
+- 亲生父母
+
+- 养父母
+
+- 
+
+家庭 Family:
+
+* 🧍‍♂️ + 🧍‍♂️ + 🧍‍♂️
+
+* House + Person(s)
+
+* Roof + Person(s)
+
+* Roof + Three + Person(s)
+
+* 
+
+爷爷/奶奶 Grandpa/ma
+
+- Previous + Father
+
+- great(xN) grandpa = previous (xN) + previous + father + #
+  兄弟姐妹 Sibling
+
+- 
+
+堂/表哥Cousin
+
+father + Sibling + Children
+
+孩子 Children/ Offspring
+
+老板 Boss/Employer
+
+- Human + Money
+
+- hand + money
+
+- 
+
+员工 Employee
+
+- Money + Human
+
+- money + hand
+
+- 
+
+警察 Police
+
+医生 Doctor
+
+positive + body + verb + noun
+
+病人 Patient
+
+negative + body + noun
+
+律师 Lawyer
+
 ---
-
-人物 Social:
-
-1. 父母 Parent = father + mother
-
-2. 🧍‍♂️ + 🧍‍♂️
-
-3. 家庭 Family = 🧍‍♂️ + 🧍‍♂️ + 🧍‍♂️
-
-4. 爷爷/奶奶Grandpa/ma
-   (5)     previous + father
-   (6)         great(xN) grandpa = previous (xN) + previous + father + #
-   (7) 兄弟姐妹 Sibling
-   (8) 堂/表哥Cousin
-   (9)     father + Sibling + Children
-   (10) 孩子 Children/ Offspring
-   (11) 老板 Boss
-   (12)     hand + money + noun
-   (13) 员工 Employee
-   (14)     money + hand + noun
-   (15) 警察 Police
-   (16) 医生 Doctor
-   (17)     positive + body + verb + noun
-   (18) 病人 Patient
-   (19)     negative + body + noun
-   (20) 律师 Lawyer
-   
-   ---
 
 疑问 Enquiries:
 What
@@ -687,7 +742,8 @@ Namaste
 植物 Plant
 机器 Machine (includes all electronics)
 
-食物 Food:
+---
+
 食物 Food
 肉类 Meat (Chicken, Fish, Pork, Lamb, Beef etc)
 鸡蛋 Egg
@@ -702,6 +758,26 @@ Namaste
 米饭 Rice
 意大利面 Spaghetti
 
+
+
+---
+
+住 Stay at
+
+* 
+
+里面 Inside
+
+* 
+
+房子 House:
+
+- House + Family = Home
+
+---
+
+
+
 动词:
 拥有 Have (我有钱, 但是不是我的钱)
 吃 Eat
@@ -710,7 +786,7 @@ Namaste
 拉屎 Take a dump
 撒尿 Urinate
 穿 Wear
-住 Stay at
+
 运动 Exercise
 游戏 Play
 行 transporting
