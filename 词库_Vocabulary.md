@@ -16,15 +16,13 @@ Miscellaneous:
 
 **
 
-
-
 上衣 T-shirt:
 
 **
 
-
-
 裤子  Pant
+
+* 
 
 **
 
@@ -32,9 +30,9 @@ Miscellaneous:
 
 * 保护+脚  Protect + Foot
 
-* 
 
-* 
+
+**
 
 内衣  Bra
 
