@@ -16,9 +16,13 @@ Miscellaneous:
 
 **
 
+
+
 上衣 T-shirt:
 
 **
+
+
 
 裤子  Pant
 
@@ -30,26 +34,21 @@ Miscellaneous:
 
 * 
 
+* 
+
 内衣  Bra
 
 * 里面+上衣
 
 * 
-  
 
 内裤  Panties
-
-
 
 * 里面+裤子
 
 穿衣  Wear (cloth)
 
-
-
 ---
-
-
 
 情绪 Emotion:
 
