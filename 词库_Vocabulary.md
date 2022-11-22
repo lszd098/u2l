@@ -8,7 +8,9 @@ Miscellaneous:
 2. Either
 3. Neither
 4. 
-5. ---</br>
+   
+   
+   ---</br>
 
 衣服 Clothing
 ***</br>
@@ -16,6 +18,7 @@ Miscellaneous:
 T-shirt:
 
 裤子  Pant
+
 鞋子  Shoes
 内衣  Bra
 内裤  Panties
