@@ -2,31 +2,99 @@ This page is WIP. If you found any bug or confusing info, please inform us via a
 
 ---
 
-Root Character is the basic idea which can be used as basic material to form more complex word. For example: Hand+Time= Wrist watch, Positive+Body= Health. Those Cooing form is tentative, we put it this way so that you get the rough idea. We are open to discussion, amendment & new suggestion. 
+Each word could exist in different forms, by simply changing the suffix (ending).
+
+| Form  | Definition                                                                                                        |
+| ----- | ----------------------------------------------------------------------------------------------------------------- |
+| 🔣    | Root form is the root meaning (can be a broad meaning with multiple definitions)                                  |
+| 🤖    | Noun form (Neutral), eg: pencil, kindness, human (if no specific mentioned), robot                                |
+| 👩‍🦰 | Noun form ([Feminine](阴阳_Feminine_vs_Masculine.md)), eg: person, animal, object (in beautiful poem form), female  |
+| 🎅    | Noun form ([Masculine](阴阳_Feminine_vs_Masculine.md)), eg: person, animal, object (in beautiful poetic form), male |
+| 👫    | Noun (Plural form), eg: people, animals, objects (in beautiful poetic form)                                       |
+| 🏚    | Location/Position/Direction/Space form, eg: Here, there, North, upward                                            |
+| 🕒    | Time/Duration form, eg: Now, a long time ago, 1pm                                                                 |
+| 🏃‍♂️ | Verb/Action form, eg: run, eat, speak                                                                             |
+| ✨     | Adjective/Adverb form, used to describe nouns, verbs or the whole situation, eg: shiny, beautifully               |
+
+
 
 ---
 
-Each word could exist in 8 different forms, by simply changing the suffix (ending).
+#wa
 
-Word:
 
-1. 🔣= Root form is the root meaning (can be a broad meaning with multiple definitions)
 
-2. 🤖= Noun form (Neutral), eg: pencil, kindness, human (if no specific inclination mentioned)
+| 🔣    | wa   | 我 I / me                           |
+| ----- | ---- | ---------------------------------- |
+| 🤖    | wai  | 我(中性/无性别) I / me (no specific sex) |
+| 👩‍🦰 | wal  | 我(女性) I / me (female)              |
+| 🎅    | waj  | 我 (男性) I / me (male)               |
+| 👫    | wais | 我们 (中性/无性别), We (no specific sex)  |
+| 🏚    | wau  | 我所在的地方, My current location        |
+| 🕒    | wao  | 我的时间? My time, life                |
+| 🏃‍♂️ | waa  | 变成我的 Make sth mine                 |
+| ✨     | wab  | 我的 My / Mine                       |
+| 🤖    | wabi | 自我 Self                            |
+| ✨     | wad  | ??                                 |
 
-3. 👩‍🦰 = Noun form (Feminine), eg: human, animal, object (in beautiful poem form)
+例句 Example sentence:
 
-4. 🎅= Noun form (Masculine), eg: human, animal, object (in beautiful poetic form)
+- `Ni bia wab boi` = 这是我的球  This is my ball.
 
-5. 👫 = Noun (Plural form), eg: human, animal, object (in beautiful poetic form)
+- `Wais bia yiis` = 我们是人类  We are humans.
 
-6. 🏃‍♂️= Verb/Action form, eg: run, eat, speak
+- `Waj aniq biua wab wabi` = 我当时(之前)射到我自己了 I shot myself.
 
-7. ✨ = Adjective/Adverb form, used to describe nouns, verbs or the whole situation, eg: shiny, beautifully
 
-8. 🏚 = Space/Location/Position form, eg: Here, there
 
-9. 🕒 = Time/Duration form, eg: Now, a long time ago, then
+---
+
+
+
+#mu
+
+| 🔣    | mu   | 👄 有关嘴巴 Mouth related               |
+| ----- | ---- | ----------------------------------- |
+| 🤖    | mui  | 嘴巴 Mouth                            |
+| 👫    | muis | muny mouths (noisy, public opinion) |
+| 🏚    | muwu | 吻痕 Kissing mark                     |
+| 🕒    | muo  | Mouth related time, kissing time?   |
+| 🏃‍♂️ | mua  | 亲嘴,亲吻 Kiss                          |
+| ✨     | mub  | 嘴巴的 Of mouth, eg: mouth disease     |
+
+相关的 Related:
+
+- fomua (fo + mu) 🍔👄 = To eat (Food + Mouth)
+
+- muxhia (mu + xhi) 👄💩= To vomit (Mouth + Dirt) Dirty words come out of mouth
+
+- xhimua (xhi + mu) 💩👄 = 咒骂 To curse/scold
+
+- muxhimui (mu+ xhi + mu) 👄💩👄 = 互骂 Quarrel (between 2 mouths)
+
+- muisu (muis + u) = 吵闹的地方 Noisy place
+
+- 牙齿 Teeth (Mouth + Bone)
+
+- 喝水 Drink (Water + Mouth)
+
+- 说话 Speak (Sound + Mouth)
+
+- 唱歌 Sing (Music + Mouth)
+
+- 咬 Bite (Mouth + Shrink)
+
+- 咀嚼 Chew (Mouth + Move)
+
+- 嘴角向下 Scowl(Mouth + Down)
+
+- 微笑 Smile (Mouth + Up)
+
+- 漱口 Gargle (Mouth + Clean)
+
+- 喉咙 Throat (Mouth + End)
+
+- 吞咽 Swallow (Mouth + End + Down)
 
 ---
 
@@ -303,7 +371,7 @@ Word:
 
 5. 🏃‍♂️: 是 is
 
-6. ✨:  
+6. ✨: 
 
 7. 🏚: 地理位置
 
@@ -766,45 +834,6 @@ Word:
 
 ---
 
-#mu
-
-| 🔣    | mu   | 👄 有关嘴巴 Mouth related               |
-| ----- | ---- | ----------------------------------- |
-| 🤖    | mui  | 嘴巴 Mouth                            |
-| 👫    | muis | Many mouths (noisy, public opinion) |
-| 🏚    | muwu | 吻痕 Kissing mark                     |
-| 🕒    | muo  | Mouth related time, kissing time?   |
-| 🏃‍♂️ | mua  | 亲嘴,亲吻 Kiss                          |
-| ✨     | mub  | 嘴巴的 Of mouth, eg: mouth disease     |
-
-相关的 Related:
-
-- fomua (fo + mu) 🍔👄 = To eat (Food + Mouth)
-
-- muxhia (mu + xhi) 👄💩= To vomit (Mouth + Dirt) Dirt come out of mouth
-
-- xhimua (xhi + mu) 💩👄 = 咒骂 To curse/scold
-
-- muxhimui (mu+ xhi + mu) 👄💩👄 = 互骂 Quarrel (between 2 mouths)
-
-- muisu (muis + u) = 吵闹的地方 Noisy place 
-
-- 牙齿 Teeth (Bone + Mouth)
-
-- 喝水 Drink (Water + Mouth)
-
-- 说话 Speak (Sound + Mouth)
-
-- 唱歌 Sing (Music + Mouth)
-
-- Bite
-
-- Chew
-
-- Swallow
-
----
-
 🔣: fomu =🍔👄 吃 Eat =  Food + Mouth
 
 1. 🤖: fomai = 吃相
@@ -995,25 +1024,7 @@ Word:
 
 ---
 
-🔣: wa = 我 I / me
 
-1. 🤖: wai = 我 (中性/无性别), I / me (no specific sex)
-
-2. 👩‍🦰: wal = 我 (女性) I / me (female)
-
-3. 🎅: waj = 我 (男性) I / me (male)
-
-4. 👫: wais = 我们 (中性/无性别), We (no specific sex)
-
-5. 🏃‍♂️: waa = 变成我的 Make sth mine
-
-6. ✨: wab = 我的 My / Mine
-
-7. 🏚: wau = 我所在的地方, My current location
-
-8. 🕒: wao = 我的时间? My time, life
-
----
 
 🔣: ni = 这 This
 
@@ -1059,25 +1070,25 @@ Word:
 
 ---
 
-🔣: 是 be / am / is / are / was / were
+| 🔣    | bi    | 是,存在 Be, State                |
+| ----- | ----- | ----------------------------- |
+| 🤖    | biyi  | 健康状态                          |
+| 👩‍🦰 | bil   | 妇科                            |
+| 🎅    | bij   | 男科                            |
+| 👫    | biyis | 存在,状态 Being, Existence, State |
+| 🏚    | biu   | 在某地点 at/in/on a location      |
+| 🕒    | bio   | 在某时间 at/in/on certain time    |
+| 🏃‍♂️ | bia   | am/is/are                     |
+| ✨     | bib   | 存在的                           |
+| ✨     | bid   |                               |
 
-1. 🤖: Being, Existence 
+例句 Example sentences:
 
-2. 👩‍🦰: 
+- Wai bia wan yiyi. = 我是一个人类 I am a human.
 
-3. 🎅:
+- Wai biu fomuwu nio. = 我正在饭厅(现在) I am at dining room now.
 
-4. 👫:
-
-5. 🏃‍♂️: 是 am / is / are / was / were
-   
-   1. 是存在的 It does exist, it exists indeed, in fact
-
-6. ✨: 被 being (eg: being eaten)
-
-7. 🏚:
-
-8. 🕒:
+- Nio bio 1pm.= 现在是一点 It is 1pm (now).
 
 ---
 
