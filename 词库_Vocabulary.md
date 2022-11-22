@@ -26,8 +26,9 @@ T-shirt:
 
 鞋子  Shoes
 
+* 保护+脚  Protect + Foot
 
-**
+* 
 
 内衣  Bra
 
