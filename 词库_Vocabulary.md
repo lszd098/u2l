@@ -90,7 +90,7 @@ Let's have fun & build vocabulary for our language. Please leave new suggestion 
 
 ---
 
-- 颜色 Color:
+颜色 Color:
 
 **
 
@@ -102,7 +102,9 @@ Let's have fun & build vocabulary for our language. Please leave new suggestion 
 
 - hong
 
-**
+- 
+
+
 
 🟡 Yellow
 
@@ -152,6 +154,8 @@ White = All + Rainbow
 
 - Up + Body = Climb
 
+- Down + Body = Descend
+
 **
 
 眼 Eye:
@@ -192,13 +196,27 @@ White = All + Rainbow
 
 脸部  Face:
 
-**
+- Front + Head
+
+- 
+
+
 
 手 Hand
 
-上肢 = Up + limbs
+- Shake hand
 
-**
+- Raise your hand
+
+- 
+
+上肢 Arm 
+
+- Up + limbs
+
+- 
+
+
 
 脚 Leg
 
@@ -212,11 +230,17 @@ White = All + Rainbow
 
 
 
-下肢 = Down/Lower + limbs
+下肢
 
-1. 臀部 Buttock
+- Down/Lower + limbs
 
-2. 尾巴 Tail
+- 
+
+臀部 Buttock
+
+生殖器 Genital
+
+尾巴 Tail （alien, animal)
 
 ---
 
@@ -305,9 +329,11 @@ Miscellaneous:
 
 恐惧 Fear
 
-1. Shrink + Emotion
+- Shrink + Emotion
 
---</br>
+- 
+
+
 
 紧张 Anxiety:
 
@@ -318,9 +344,12 @@ Miscellaneous:
 尊敬 Respect
 
 1. 敬礼+情绪 Salute + Emotion
-2. 
+
+
 
 ---
+
+
 
 时间性 Timing/Frequency:
 
