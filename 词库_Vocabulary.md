@@ -448,15 +448,11 @@ Computer / PC:
 
 1. pici
 
---
-
 internet:
 
 1. internei
 
 --
-
-
 
 ---
 
